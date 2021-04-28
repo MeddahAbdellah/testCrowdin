@@ -32,7 +32,7 @@
       "i_have_no_email_address": "Je ne possède pas d'adresse e-mail",
       "yes": "Oui",
       "no": "Non",
-      "required_for_employee_app":  "Nous vous rappelons que sans adresse email, vous ne pourrez pas vous connecter à votre espace de prévention et accéder à l'ensemble de vos documents médicaux.",
+      "required_for_employee_app": "Nous vous rappelons que sans adresse email, vous ne pourrez pas vous connecter à votre espace de prévention et accéder à l'ensemble de vos documents médicaux.",
       "would_you_like_to_continue": "Souhaitez-vous continuer ?"
     },
     "personal_infos": {
@@ -100,9 +100,9 @@
       "request_error": "Une erreur est survenue lors de la recherche de nouveaux appareils.",
       "no_response_from_device": "L'appareil bluetooth ne répond pas.",
       "bluetooth_not_enabled": "Impossible de se connecter au bluetooth de votre ordinateur. Les tests utilisant le tensiomètre et la balance connectée ne seront pas disponibles.",
-      "devices_not_registered":  "La balance et le tensiomètre ne sont actuellement pas enregistrés dans le système : vous ne pourrez mesurer ni votre poids ni votre tension.",
-      "scale_not_registered":  "La balance n'est actuellement pas enregistrée dans le système : vous ne pourrez pas mesurer votre poids.",
-      "pressure_not_registered":  "Le tensiomètre n'est actuellement pas enregistré dans le système : vous ne pourrez pas mesurer votre tension.",
+      "devices_not_registered": "La balance et le tensiomètre ne sont actuellement pas enregistrés dans le système : vous ne pourrez mesurer ni votre poids ni votre tension.",
+      "scale_not_registered": "La balance n'est actuellement pas enregistrée dans le système : vous ne pourrez pas mesurer votre poids.",
+      "pressure_not_registered": "Le tensiomètre n'est actuellement pas enregistré dans le système : vous ne pourrez pas mesurer votre tension.",
       "list_devices_error": "Impossible d'obtenir la liste des appareils bluetooth connectés.",
       "error_modal": {
         "results_not_received": "Le résultat du test n'a pas été transmis à l'application *",
@@ -119,13 +119,13 @@
         "blood_pressure": "Tensiomètre",
         "scale": "Balance",
         "cant_pair_device": "Je n'arrive pas à connecter mon appareil",
-        "what_kind_of_device_you_want_to_add":"Quel type d'objet souhaitez-vous ajouter ?",
+        "what_kind_of_device_you_want_to_add": "Quel type d'objet souhaitez-vous ajouter ?",
         "blood_pressure_monitor_instruction": "Munissez-vous du tensiomètre et appuyez sur le bouton start pendant quelques secondes...",
         "scale_instruction": "Appuyez sur le bouton au dos de la balance, afin d'activer le mode recherche",
         "web_bluetooth_unavailable": "Web bluetooth non disponible.",
-        "use_feature_flags":"Veuillez activer les feature flags de Google Chrome suivants avant de lancer le pairage:",
-        "web_bluetooth_new_permissions_backend_ff":"enable-web-bluetooth-new-permissions-backend",
-        "experimental_web_platform_features_ff":"enable-experimental-web-platform-features",
+        "use_feature_flags": "Veuillez activer les feature flags de Google Chrome suivants avant de lancer le pairage:",
+        "web_bluetooth_new_permissions_backend_ff": "enable-web-bluetooth-new-permissions-backend",
+        "experimental_web_platform_features_ff": "enable-experimental-web-platform-features",
         "relaunch_pairing": "Relancer le pairage",
         "device_paired": "Votre appareil est à présent appairé"
       },
@@ -140,7 +140,7 @@
         "submit": "Valider",
         "contact_us": "Contactez-nous",
         "contact_us_at": "Par téléphone : {0}",
-        "contact_us_on":"De 8h30 à 18h30 du lundi au vendredi"
+        "contact_us_on": "De 8h30 à 18h30 du lundi au vendredi"
       },
       "technical_settings": {
         "title": "Réglages techniques",
@@ -392,7 +392,7 @@
       "end_session": "Terminer la session",
       "close": "Fermer"
     },
-    "permission" : {
+    "permission": {
       "ask_for_permission": "Veuillez autoriser l'accès à la caméra dans l'écran suivant.",
       "no_permission_error": "Cette autorisation est obligatoire pour continuer! <br/>Veuillez recommencer.",
       "give_permission": "Autoriser"

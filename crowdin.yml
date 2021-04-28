@@ -1,3 +1,3 @@
 files:
   - source: previsit_fr.json
-    translation: /%original_file_name%_%two_letters_code%.json
+    translation: /%file_name%_%two_letters_code%.json

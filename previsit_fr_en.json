@@ -166,15 +166,15 @@
       "privacy_text": "Your answers to the questionnaire are confidential.",
       "secret": "All this information is subject to legal confidentiality and cannot be disclosed to your employer.",
       "labor_code": "Labour Code, Art. L4624-8",
-      "labor_code_article": "A work-healthy medical record created by the work mechanic retrace in the respect of the medical secret the information related to the health status of the worker, to the exhibitions to which he was submitted, as well as the opinions and proposals of the work doctor, including those formulated in application of articles L. This file can only be communicated to the researcher of his or her choice, upon request of the integer. In the event of a risk to public health or at its request, the work doctor forwards it to the work inspector. This file may be communicated to another mechanic of work in the continuity of care unless refused by the worker. The worker, or in the case of the latter any person authorized by articles L. 1110-4 and L. 1111-7 of the Public Health Code, may request the communication of this file.",
+      "labor_code_article": "A medical record created by the work mechanic retrace in the respect of the medical secret the information related to the health status of the worker, to the exhibitions to which he was submitted, as well as the opinions and proposals of the work doctor, including those formulated in application of articles L. This file can only be communicated to the researcher of his or her choice, upon request of the integer. In the event of a risk to public health or at its request, the work doctor forwards it to the work inspector. This file may be communicated to another mechanic of work in the continuity of care unless refused by the worker. The worker, or in the case of the latter any person authorized by articles L. 1110-4 and L. 1111-7 of the Public Health Code, may request the communication of this file.",
       "understood": "Got it",
       "leave_warning": "Are you sure you want to leave the questionnaire and return to the home page?",
       "progress_text": "Completed"
     },
     "blood_pressure": {
-      "title": "Voltage",
-      "take_device": "<b>Get the pressure pressure</b> by unplugging it if needed.",
-      "position_device": "<b>Scratch without forcing the pressure around your left forearm</b> (after passing the strap into the loop)",
+      "title": "blood pressure",
+      "take_device": "<b>Get the blood pressure monitor</b> by unplugging it if needed.",
+      "position_device": "<b>Scratch without forcing the blood pressure monitor around your left forearm</b> (after passing the strap into the loop)",
       "position_device_2": "The screen should be facing you, in the right direction and at two centimeters of your wrist.",
       "position_yourself": "<b>Put the elbow on the array,</b> the hand facing the heart.",
       "position_yourself_2": "Make sure you do not move during measurement.",
@@ -183,18 +183,18 @@
       "measure_end": "<b>The measurement is completed</b> when you hear a <b>\"BIP\"</b>.",
       "next_step": "Next",
       "prev_step": "Back",
-      "help": "I can't pick up my tension.",
-      "manual_input": "<b>Please specify manually the measurements</b> shown on the surface:",
-      "normal_results_title": "<b>Your voltage is normal</b>",
-      "to_monitor_results_title": "<b>Your voltage is controlled</b>",
-      "normal_results": "The measurement indicates a normal voltage, nevertheless, if you have a doubt or question, we invite you to talk to your work teacher",
-      "to_monitor_results": "The measurement indicates a voltage <b>higher than the</b>. No worries, the voltage measurement can vary according to many parameters, even within a single day. We recommend that you check it <b>by your doctor anytime.</b>",
+      "help": "I can't pick up my blood pressure.",
+      "manual_input": "<b>Please specify manually the measurements</b> shown on the blood pressure monitor:",
+      "normal_results_title": "<b>Your blood pressure is normal</b>",
+      "to_monitor_results_title": "<b>Your blood pressure is controlled</b>",
+      "normal_results": "The measurement indicates a normal blood pressure, nevertheless, if you have a doubt or question, we invite you to talk to your doctor",
+      "to_monitor_results": "The measurement indicates a blood pressure <b>higher than the</b>. No worries, the blood pressure measurement can vary according to many parameters, even within a single day. We recommend that you check it <b>by your doctor anytime.</b>",
       "did_you_know": "Did you know?",
       "systolic": "<b><i>systolic voltage (SYS)</i></b> corresponds to blood pressure in the arteries during the heart contraction phase, or systemic.",
       "diastolic": "<b><i>Diastolic voltage (DIA)</i></b> corresponds to blood pressure in the arteries during the heart relaxation phase, or diastole.",
       "pulsation": "<b><i>Heart rate (PUL/min or BPM)</i></b> is the number of heart beats (or pulses) per minute.",
       "input_error": "Value must be between {0} and {1} mmHg",
-      "leave_warning": "Are you sure you want to exit the power outlet and return to the home page?",
+      "leave_warning": "Are you sure you want to exit the blood pressure measurement and return to the home page?",
       "end": "Finish"
     },
     "near_vision": {
@@ -241,7 +241,7 @@
       "continue": "Continue",
       "pacemaker": {
         "do_you_wear_a_pacemaker": "Do you wear a pacemaker (or \"Heart Stack\")?",
-        "explanation": "In case of pacemaker port, the use of the electronic balance to calculate your body mass index is not recommended",
+        "explanation": "In case of pacemaker port, the use of the electronic Scale to calculate your body mass index is not recommended",
         "no": "No",
         "yes": "Yes I wear a pacemaker",
         "confirm_yes": "Do you really want to confirm that you are wearing a pacemaker?",
@@ -257,11 +257,11 @@
       },
       "measure_weight": {
         "cannot_measure_weight": "I can't get my weight.",
-        "step_on_the_scale": "<b>Move up to balance</b> (on hard ground) <b>and wait.</b>",
+        "step_on_the_scale": "<b>Move up to the scale</b> (on hard ground) <b>and wait.</b>",
         "wait_for_the_bip": "The measurement is completed when you hear a \"BIP\"."
       },
       "enter_weight": {
-        "enter_your_weight": "Please <b>manually enter weight</b> indicated on balance:"
+        "enter_your_weight": "Please <b>manually enter weight</b> indicated on Scale:"
       },
       "weight_bar": {
         "footer_bmi": "BMI",

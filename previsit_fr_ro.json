@@ -1,0 +1,422 @@
+{
+  "previsit": {
+    "onboarding": {
+      "hello_employee": "Bună ziua {0},",
+      "invited_to_answer": "Serviciul dumneavoastră de sănătate în muncă vă invită să răspundeți la un chestionar și să efectuați câteva examinări",
+      "previsit_duration": "Seria de examene durează<br><b>15 până la 30 de minute</b>",
+      "previsit_secure": "<b>Datele dvs. sunt sigure.</b><br>Doar dvs. și echipa medicală îl puteți accesa",
+      "previsit_communication": "În caz de dificultăți, vă rugăm să contactați medicul",
+      "next": "ca urmare a",
+      "not_this_employee": "Nu sunt {0}",
+      "cgu_security": "Informațiile colectate sunt înregistrate într-un fișier computerizat de către serviciul dumneavoastră de sănătate a muncii pentru a crea și actualiza fișierul medical de sănătate în muncă.<br><br>Acestea sunt destinate numai medicului dumneavoastră de muncă și, la delegare, echipei sale medicale, în conformitate cu secretul medical și profesional.<br><br>În conformitate cu legea „Informatique et Libertés”, vă puteți exercita dreptul de acces la datele care vă privesc și le puteți rectifica contactând serviciul de sănătate a muncii.<br><br>Datele sunt colectate și prelucrate tehnic de către un subcontractant al serviciului de sănătate a muncii:<br>{0}<br><br>Datele sunt găzduite de un gazdă aprobat de date de sănătate cu toate garanțiile de securitate, confidențialitate și robustețe:<br>{1}<br>",
+      "confirm_cgu_security": "Făcând clic pe „următor”, sunt de acord în mod expres la colectarea și prelucrarea datelor mele de sănătate, în conformitate cu secretul medical și profesional.",
+      "add": "Adăuga",
+      "change": "Editați | ×",
+      "back": "Întoarcere",
+      "go_on": "Continuă"
+    },
+    "firm": {
+      "work_for_firm": "Mai lucrezi în [această | acestea] compania[s]?",
+      "yes": "da",
+      "no": "Nu"
+    },
+    "email": {
+      "update_email_please": "Vă rugăm să vă actualizați adresa de e-mail",
+      "your_email": "<b>Adresa ta de e-mail</b> (obligatoriu)",
+      "enter_email": "Introduceți adresa dvs. de email",
+      "no_email": "Nu a fost furnizată nicio adresă",
+      "frequently_used": "Utilizat frecvent",
+      "submit": "Valida",
+      "cancel": "A anula",
+      "email_utility": "E-mailul vă permite să accesați în siguranță rezultatele vizitei în spațiul dvs. de prevenire, să primiți invitațiile și notificările (anulare, modificare a vizitei, documente noi…)",
+      "i_have_no_email_address": "Nu am o adresă de e-mail",
+      "yes": "da",
+      "no": "Nu",
+      "required_for_employee_app": "Vă reamintim că, fără o adresă de e-mail, nu veți putea să vă conectați la spațiul dvs. de prevenire și să accesați toate documentele dvs. medicale.",
+      "would_you_like_to_continue": "Doriți să continuați?"
+    },
+    "personal_infos": {
+      "update_infos": "Actualizați-vă informațiile personale",
+      "infos_confidentiality": "Aceste informații sunt destinate numai serviciului de sănătate și în niciun caz nu vor fi transmise angajatorului dumneavoastră.",
+      "your_mobile_phone": "Numărul dvs. de telefon mobil",
+      "no_mobile_phone": "Nu a fost introdus niciun număr",
+      "your_address": "Adresa dvs. poștală",
+      "no_address": "Nu a fost furnizată nicio adresă",
+      "submit": "Valida",
+      "cancel": "A anula",
+      "phone_use": "Numărul dvs. de telefon oferă acces la spațiul angajaților.",
+      "phone_complementary_use": "De asemenea, este folosit pentru a vă reaminti prin SMS locul și ora vizitelor dvs. de sănătate la locul de muncă.",
+      "address_use": "Adresa dvs. poștală poate fi folosită de serviciul de sănătate pentru a vă trimite scrisori",
+      "address_use_example": "(ex. prescripții pentru examinări suplimentare)",
+      "disclaimer": "Aceste informații sunt destinate numai serviciului de sănătate și nu vor fi transmise angajatorului dumneavoastră.",
+      "i_understand": "înțeleg",
+      "postal_address_update": "Vă rugăm să introduceți adresa dvs. poștală",
+      "street": "Introduceți adresa dvs.",
+      "postal_code": "Cod postal",
+      "city": "Oraș",
+      "phone_placeholder": "Introduceți numărul dvs.<br>Exemplu: {0}"
+    },
+    "employee_picture": {
+      "picture_found": "O fotografie cu tine a fost găsită<br>în dosarele tale medicale.",
+      "picture_not_found": "<b>Nu aveți încă o fotografie<br>asociată cu profilul dvs.</b>",
+      "picture_purpose": "Fotografia dvs. permite echipei medicale să vă identifice mai ușor și să îmbunătățească urmărirea fișierului.",
+      "do_not_add_picture": "Nu vreau să adaug o fotografie",
+      "change_picture": "Editeaza poza",
+      "add_picture": "Pentru a face o fotografie",
+      "position_yourself": "Centrează-ți capul în cerc, apoi apasă butonul roz.",
+      "take_picture": "Fă poza",
+      "try_again": "Repornire",
+      "submit": "Valida"
+    },
+    "allow_dmst_transfer": {
+      "allow_transfer": "Autorizație pentru transferul Dosarului medical de sănătate în muncă",
+      "why_allow_transfer": "În cazul indisponibilității sau înlocuirii personalului medical care vă urmărește, fișierul dvs. de sănătate va fi trimis unui înlocuitor din serviciu, care va avea grijă de dvs. în conformitate cu confidențialitatea medicală.",
+      "see_more": "Vedeți mai multe informații",
+      "secured_tranfer": "Aceste informații sunt strict confidențiale și nu sunt comunicate în niciun caz angajatorului dumneavoastră.",
+      "allow": "autorizez",
+      "refuse": "Nu permit"
+    },
+    "dmst_transfer_explanation": {
+      "title": "Transferul dosarului de sănătate în muncă",
+      "law_code": "Codul muncii, art. L4624-8",
+      "law_article": {
+        "article_code": "Articolul L4624-8 din codul muncii:",
+        "article_paragraph_one": "Un dosar medical de sănătate a muncii, întocmit de medicul muncii, retrage, în conformitate cu confidențialitatea medicală, informații referitoare la starea de sănătate a lucrătorului, la expunerile la care a fost supus, precum și opiniile și propunerile medicului muncii lucrări, în special cele formulate în aplicarea articolelor L.4624-3 și L.4624-4.",
+        "article_paragraph_two": "Acest dosar poate fi comunicat numai medicului la alegere, la cererea persoanei în cauză. În cazul unui risc pentru sănătatea publică sau la cererea acestuia, medicul muncii îl transmite inspectorului medicului muncii. Acest fișier poate fi comunicat unui alt medic ocupațional în continuitatea îngrijirii, cu excepția cazului în care lucrătorul refuză.",
+        "article_paragraph_three": "Lucrătorul sau, în caz de deces, orice persoană autorizată prin articolele L.1110-4 și L.1111-7 din Codul de sănătate publică, poate solicita comunicarea acestui dosar."
+      },
+      "intro": "Centrul dvs. de sănătate profesională prelucrează datele colectate pentru a vă asigura îngrijirea sănătății profesionale.",
+      "dmst_transfer": "Ca parte a continuității urmăririi, fișa medicală poate fi comunicată noului dvs. medic de specialitate care participă la îngrijirea dumneavoastră:",
+      "transfer_mail": "prin poștă sau mesagerie: în acest caz, vă puteți opune acestei comunicări informând prin orice mijloace personalul centrului de sănătate a muncii care vă sprijină;",
+      "transfer_digital": "printr-un fișier computerizat comun care permite altor medici ocupaționali să aibă acces la istoricul medical necesar pentru urmărirea dvs.: în acest caz, consimțământul dvs. de a partaja este colectat și poate fi retras oricând.",
+      "transfer_importance": "Această comunicare este necesară pentru prevenirea riscurilor dumneavoastră profesionale și pentru păstrarea sănătății dvs., prin urmare, pentru urmărirea corectă, eficientă și precisă de către diferiții medici ocupaționali care vor fi obligați să vă efectueze urmărirea.",
+      "transfer_conclusion": "Pentru a atinge acest obiectiv, medicul muncii are nevoie de asistență suplimentată pe măsură ce se efectuează examinările prevăzute de reglementările muncii pentru a permite monitorizarea în timp a evoluției stării dumneavoastră de sănătate și a expunerilor sale remarcabile (în special a celor susceptibile de a fi sursa patologiilor profesionale), restricțiile de aptitudine și orice altă recomandare.",
+      "confidentiality_clause": "Toți acești profesioniști sunt supuși confidențialității acestor informații.",
+      "close": "A inchide"
+    },
+    "bluetooth": {
+      "pairing_timeout": "Conexiunea cu dispozitivul Bluetooth nu a avut succes.",
+      "scan_cancelled": "Căutarea de noi dispozitive Bluetooth a fost anulată.",
+      "request_error": "A apărut o eroare la căutarea dispozitivelor noi.",
+      "no_response_from_device": "Dispozitivul Bluetooth nu răspunde.",
+      "bluetooth_not_enabled": "Nu se poate conecta la Bluetooth-ul computerului. Testele cu ajutorul tensiometrului și a scalei conectate nu vor fi disponibile.",
+      "devices_not_registered": "Scara și tensiunea arterială nu sunt înregistrate în prezent în sistem: nu veți putea măsura greutatea sau tensiunea arterială.",
+      "scale_not_registered": "Cântarul nu este înregistrat în prezent în sistem: nu vă veți putea măsura greutatea.",
+      "pressure_not_registered": "Monitorul tensiunii arteriale nu este înregistrat în prezent în sistem: nu vă veți putea măsura tensiunea arterială.",
+      "list_devices_error": "Nu se poate obține lista dispozitivelor Bluetooth conectate.",
+      "error_modal": {
+        "results_not_received": "Rezultatul testului nu a fost transmis aplicației *",
+        "finish_manually": "Indicați manual rezultatul",
+        "retry_test": "Repetați testul",
+        "help_from_handler": "(*) Nu ezitați să cereți ajutor persoanei responsabile de vizită"
+      }
+    },
+    "settings": {
+      "bluetooth": {
+        "add_device": "Adăuga",
+        "add_new_device": "Adăugați un nou dispozitiv Bluetooth",
+        "n_connected_devices": "În prezent aveți {0} obiect[s] salvat[s]:",
+        "blood_pressure": "Monitor de tensiune arterială",
+        "scale": "Echilibru",
+        "cant_pair_device": "Nu-mi pot conecta dispozitivul",
+        "what_kind_of_device_you_want_to_add": "Ce tip de obiect doriți să adăugați?",
+        "blood_pressure_monitor_instruction": "Luați tensiometrul și apăsați butonul de pornire pentru câteva secunde ...",
+        "scale_instruction": "Apăsați butonul din spatele scalei pentru a activa modul de căutare",
+        "web_bluetooth_unavailable": "Web Bluetooth nu este disponibil.",
+        "use_feature_flags": "Vă rugăm să activați următoarele stegulețe ale funcției Google Chrome înainte de a începe asocierea:",
+        "web_bluetooth_new_permissions_backend_ff": "enable-web-bluetooth-new-permissions-backend",
+        "experimental_web_platform_features_ff": "activați-funcțiile-platformei-web-experimentale",
+        "relaunch_pairing": "Reporniți asocierea",
+        "device_paired": "Dispozitivul dvs. este acum asociat"
+      },
+      "general": {
+        "admin": "Administrare",
+        "pair_devices": "Împerecherea obiectelor",
+        "technical_settings": "Setări tehnice",
+        "enter_password": "Introduceți parola de administrator:",
+        "wrong_password": "Parola introdusă este incorectă",
+        "password": "Parola",
+        "leave": "Ieșiți din aplicație",
+        "submit": "Valida",
+        "contact_us": "Contactează-ne",
+        "contact_us_at": "Prin telefon: {0}",
+        "contact_us_on": "08:30 - 18:30 de luni până vineri"
+      },
+      "technical_settings": {
+        "title": "Setări tehnice",
+        "tutorial": "Vocea naratorului",
+        "disable_context_menu": "Dezactivați meniul contextual (faceți clic dreapta)",
+        "request_fullscreen": "Activați comutarea automată pe ecran complet"
+      }
+    },
+    "carousel": {
+      "select_test": "Selectați un examen",
+      "exam_not_done": "Nu v-ați terminat testele, sunteți sigur că doriți să vă deconectați?"
+    },
+    "form": {
+      "answer": "Valida",
+      "skip_answer": "Nu vreau să răspund",
+      "skip_answer_confirmation": "Sigur doriți să omiteți întrebarea?",
+      "confirm_skip": "Da, treci",
+      "deny_skip": "Nici un raspuns",
+      "subtitle": "Studiu",
+      "done": "Terminat",
+      "back": "Întoarcere",
+      "privacy": "Confidențialitatea chestionarului",
+      "privacy_text": "Răspunsurile dvs. la chestionar sunt confidențiale.",
+      "secret": "Toate aceste informații sunt păstrate prin confidențialitate medicală și nu pot fi comunicate în niciun caz angajatorului dumneavoastră.",
+      "labor_code": "Codul muncii, art. L4624-8",
+      "labor_code_article": "Un dosar medical de sănătate a muncii, întocmit de medicul muncii, retrage, în conformitate cu confidențialitatea medicală, informații referitoare la starea de sănătate a lucrătorului, la expunerile la care a fost supus, precum și la opiniile și propunerile lucrării, în în special cele formulate în aplicarea articolelor L. 4624-3 și L. 4624-4. Acest dosar poate fi comunicat numai medicului la alegere, la cererea persoanei în cauză. În cazul unui risc pentru sănătatea publică sau la cererea acestuia, medicul muncii îl transmite inspectorului medicului muncii. Acest fișier poate fi comunicat unui alt medic ocupațional în continuitatea îngrijirii, cu excepția cazului în care lucrătorul refuză. Lucrătorul sau, în caz de deces, orice persoană autorizată prin articolele L. 1110-4 și L. 1111-7 din Codul de sănătate publică, poate solicita comunicarea acestui dosar.",
+      "understood": "înțeleg",
+      "leave_warning": "Sigur doriți să părăsiți chestionarul și să reveniți la pagina principală?",
+      "progress_text": "Efectuat"
+    },
+    "blood_pressure": {
+      "title": "Voltaj",
+      "take_device": "<b>Luați tensiometrul</b> deconectându-l, dacă este necesar.",
+      "position_device": "<b>Zgârieturi fără a forța tensiometrul în jurul antebrațului stâng</b> (după ce ați trecut cureaua prin cataramă)",
+      "position_device_2": "Ecranul ar trebui să fie orientat spre tine, la dreapta sus și la doi centimetri de încheietura mâinii.",
+      "position_yourself": "<b>Puneți cotul pe masă,</b> mâna îndreptată spre inimă.",
+      "position_yourself_2": "Aveți grijă să nu vă mișcați în timpul măsurării.",
+      "measure_explanation": "<b>În timpul măsurării, brățara se umflă și strânge bine antebrațul.</b> Se dezumflă singur după aproximativ 30 de secunde.",
+      "ready": "Când sunteți gata, apăsați <b>butonul \"Start\"</b> pe monitorul tensiunii arteriale",
+      "measure_end": "<b>Măsurarea este terminată</b> când auziți un <b>„BEEP”</b>.",
+      "next_step": "ca urmare a",
+      "prev_step": "Întoarcere",
+      "help": "Nu-mi pot lua tensiunea.",
+      "manual_input": "<b>Vă rugăm să indicați manual măsurătorile</b> afișate pe monitorul tensiunii arteriale:",
+      "normal_results_title": "<b>Tensiunea arterială este normală</b>",
+      "to_monitor_results_title": "<b>Tensiunea dvs. trebuie verificată</b>",
+      "normal_results": "Măsurarea indică tensiunea arterială normală, cu toate acestea, dacă aveți nelămuriri sau întrebări, vă invităm să discutați cu medicul dumneavoastră de muncă.",
+      "to_monitor_results": "Măsurarea indică o tensiune <b>mai mare decât standardul</b>. Nu vă faceți griji, măsurarea tensiunii poate varia în funcție de mulți parametri, chiar și în aceeași zi. Vă recomandăm tot timpul să faceți <b>verificate de medicul dumneavoastră.</b>",
+      "did_you_know": "Știați ?",
+      "systolic": "<b><i>Presiunea sistolică (SYS)</i></b> este tensiunea arterială în artere în timpul fazei de contracție a inimii sau sistolă.",
+      "diastolic": "<b><i>Presiunea diastolică (DIA)</i></b> corespunde tensiunii arteriale în artere în timpul fazei de relaxare a inimii sau diastolei.",
+      "pulsation": "<b><i>Frecvența cardiacă (PUL / min sau BPM)</i></b> este numărul de bătăi cardiace (sau pulsații) pe minut.",
+      "input_error": "Valoarea trebuie să fie între {0} și {1} mmHg",
+      "leave_warning": "Sigur doriți să nu mai luați tensiunea arterială și să reveniți la pagina principală?",
+      "end": "finalizarea"
+    },
+    "near_vision": {
+      "title": "Viziune de aproape",
+      "question_reading_tools": "Purtați <b>ochelari</b> sau <b>lentile</b> de citit?",
+      "question_wear_glasses": "<b>Ai de gând să le porți în timpul acestui test?</b> (recomandat)",
+      "double_glasses": "Dacă porți bifocale, ia în considerare căutarea prin fundul ochelarilor",
+      "placement": "<b>Poziționați-vă la 40 cm de ecran, orientat spre cercul</b>",
+      "automatic_detection": "Aplicația detectează automat distanța față de fața ta.",
+      "closer_to_screen": "<b>Deplasați-vă mai aproape de ecranul</b>",
+      "further_from_screen": "<b>Îndepărtați-vă de ecran</b>",
+      "right_distance": "<b>Distanță ok. Nu mișcați</b>",
+      "not_detected": "<b>Vă rugăm să vă poziționați în fața ecranului</b>",
+      "no_camera": "<b>așteaptă accesul la camera foto a dispozitivului</b>",
+      "placement_not_detected": "<b>Distanța dintre față și ecran nu a fost detectată.</b>",
+      "test_still_possible": "Puteți efectua testul plasându-vă fața la aproximativ 40cm de ecran.",
+      "i_am_not_detected": "Nu sunt detectat",
+      "i_understand": "înțeleg",
+      "click_on_symbol": "<b>Faceți clic pe tasta corespunzătoare simbolului subliniat</b>",
+      "touch_arrow": "Atingeți săgeata din centrul tastaturii când nu o puteți vedea",
+      "partner": "Test efectuat în parteneriat cu",
+      "rectify": "Corect",
+      "yes": "da",
+      "no": "Nu",
+      "done": "finalizarea",
+      "normal_results_title": "<b>Vederea dvs. de aproape pare normală</b>",
+      "normal_results": "Pentru a verifica în continuare starea de sănătate a ochilor, nu ezitați să faceți o întâlnire cu <b>un profesionist în viziune.</b>",
+      "to_monitor_results_title": "<b>Verifică-ți viziunea de aproape</b>",
+      "to_monitor_results": "Dacă ați făcut câteva greșeli, vă recomandăm <b>să vă verificați vederea</b> către un specialist în ochi.",
+      "did_you_know": "Știați ?",
+      "parinaud": "<b>Scara Parinaud măsoară aproape acuitatea vizuală, adică capacitatea de citire:</b>",
+      "parinaud_boundaries": "P2 este considerat acuitate vizuală normală și P14 acuitate vizuală foarte slabă.",
+      "leave_warning": "Sigur doriți să renunțați la testul de viziune apropiată și să reveniți la pagina principală?",
+      "result": {
+        "visual_prothesis": "Corecție vizuală: {0}",
+        "distance_with_unit": "Distanta: {0} cm"
+      }
+    },
+    "weight": {
+      "title": "IMC - Indicele masei corporale",
+      "leave_warning": "Sigur doriți să renunțați la măsurarea greutății și să reveniți la pagina principală?",
+      "back": "Întoarcere",
+      "next": "ca urmare a",
+      "continue": "Continuă",
+      "pacemaker": {
+        "do_you_wear_a_pacemaker": "Purtați un stimulator cardiac (sau „baterie cardiacă”)?",
+        "explanation": "Dacă purtați un stimulator cardiac, nu este recomandată utilizarea cântarului electronic pentru calcularea indicelui de masă corporală.",
+        "no": "Nu",
+        "yes": "Da, port un stimulator cardiac",
+        "confirm_yes": "Confirmați că purtați un stimulator cardiac (sau „baterie cardiacă”)?",
+        "cancel_btn": "A anula",
+        "confirm_btn": "A confirma"
+      },
+      "enter_size": {
+        "enter_your_size": "Indicați mărimea dvs.",
+        "i_dont_known": "Nu știu mărimea mea."
+      },
+      "measure_size": {
+        "use_the_ruler_on_the_wall": "Dacă nu vă cunoașteți dimensiunea\nfolosind metrul de pe perete."
+      },
+      "measure_weight": {
+        "cannot_measure_weight": "Nu pot să mă îngraș.",
+        "step_on_the_scale": "<b>Pas pe scara</b> (pe o podea tare) <b>și așteptați.</b>",
+        "wait_for_the_bip": "Măsurarea este finalizată când auziți un „BEEP”."
+      },
+      "enter_weight": {
+        "enter_your_weight": "Vă rugăm să introduceți manual <b></b> indicată pe cântar:"
+      },
+      "weight_bar": {
+        "footer_bmi": "IMC",
+        "footer_weight": "Greutate"
+      },
+      "results": {
+        "normal_results_title": "Greutatea ta pare normală",
+        "normal_results": "IMC-ul dvs. este {0}, scara internațională indică faptul că <b>aveți o construcție normală</b>.",
+        "to_monitor_results_title": "Greutatea ta trebuie monitorizată",
+        "to_monitor_results": "IMC-ul dvs. este {0}, scara internațională indică faptul că greutatea dvs. trebuie urmărită.<br>Controlul greutății este un factor important de sănătate. Puteți , dacă doriți <b>vezi un medic general sau nutritionist.</b>",
+        "no_results_title": "Acest test nu este potrivit pentru pacienții cu stimulator cardiac (sau „baterie cardiacă”)",
+        "no_results": "Acest test nu este recomandat",
+        "did_you_know": "Știați ?",
+        "bmi_explanation": "IMC este un indicator al corpulenței dvs. făcând posibilă estimarea riscurilor legate de supraponderalitate și subțire. Cu toate acestea, această măsură are limitări (de exemplu: nu se ia în considerare morfologia individului, supraestimarea femeilor și sportivilor etc.) și nu înlocuiește un diagnostic medical.",
+        "card_title": "greutate",
+        "pacemaker_subject": "subiect cu baterie de inimă",
+        "end": "finalizarea",
+        "bmi": "IMC"
+      }
+    },
+    "audio": {
+      "title": "Auz",
+      "exitWarningMessage": "Sigur doriți să părăsiți testul auditiv și să reveniți la pagina principală?",
+      "intro": {
+        "explanation": "Acest test este o identificare a anumitor dificultăți de auz. Evaluează capacitatea ta de a recunoaște vocile într-un mediu zgomotos.",
+        "biauricular": "(Acest test fiind biauricular, vă evaluează doar urechea mai bună)",
+        "quiet": "Pentru a asigura fiabilitatea rezultatului, vă invităm să efectuați testul într-o cameră liniștită.",
+        "continue": "Continuă"
+      },
+      "hearing_aid": {
+        "has_hearing_aid": "Purtați aparate auditive?",
+        "no": "Nu",
+        "yes": "da",
+        "occasionally": "Ocazional"
+      },
+      "headphone": {
+        "plug_it": "Vă rugăm să aveți <b>căști</b> și conectați-le la computer.",
+        "previous": "Întoarcere",
+        "next": "ca urmare a",
+        "need_help": "Nu pot conecta căștile",
+        "nurse_help": "Vă rugăm să informați asistenta medicală pentru a o ruga să vă ajute să conectați setul cu cască",
+        "resume": "Relua"
+      },
+      "tutorial_input_digits": {
+        "hear_digit_triplet": "Veți auzi <b></b> Aceste numere sunt emise într-un zgomot variabil de fond",
+        "easy_difficult_test": "Prin urmare, testul este uneori ușor, uneori dificil.",
+        "ok": "Bine"
+      },
+      "tutorial_hear_digits": {
+        "input_digits": "Tastați numerele pe care le veți auzi pe ecran.",
+        "input_dash": "Atingeți cratima (-) când nu auziți corect un număr.",
+        "start": "A începe"
+      },
+      "test": {
+        "set": "Seria {0}",
+        "listen": "Asculta cu atentie",
+        "click_on_the_numbers_you_heard": "Tastați numerele pe care tocmai le-ați auzit pe ecran,",
+        "click_on_hyphen": "Apăsați pe liniuță când nu ați auzit numărul"
+      },
+      "results": {
+        "noise_ratio": "(*) Raport semnal / zgomot",
+        "noise_ratio_abbreviation": "RSB *",
+        "noise_ratio_with_unit": "{0} dB",
+        "has_prothesis": "Subiect asociat",
+        "end": "finalizarea",
+        "normal_results_title": "Auzul tău pare normal",
+        "normal_results_text": "Cu toate acestea, dacă aveți încă disconfort auditiv, <b>nu ezitați să faceți o întâlnire cu un medic ORL</b> sau să discutați cu profesionistul dumneavoastră din domeniul sănătății muncii.",
+        "to_monitor_results_title": "Este posibil ca auzul dvs. să fie urmărit",
+        "to_monitor_results_text": "<b>Nu ezitați să faceți o întâlnire cu un medic ORL</b> pentru o verificare amănunțită a auzului sau să discutați cu profesionistul dumneavoastră din domeniul sănătății muncii.",
+        "no_results_title": "Acest test nu este potrivit pentru pacienții deja montați",
+        "no_results_text": "Acest test identifică doar anumite dificultăți de auz.<br>Nu este calibrat pentru pacienții cu dificultăți auditive cunoscute.<br>Acestea trebuie monitorizate în mod regulat de către un medic ORL.",
+        "did_you_know": "Știați ?",
+        "audiometry_stats": "Ministerul Sănătății estimează că peste 50% dintre persoanele cu deficiențe de auz din Franța nu au avut niciodată evaluat capacitatea auditivă. Astfel, doar 15% din persoanele cu deficiențe de auz sunt echipate în Franța, în comparație cu 30% în Danemarca.",
+        "to_monitor": "A monitoriza",
+        "normal": "Normal",
+        "good": "Bun"
+      }
+    },
+    "test_results": {
+      "result_success": "Normal",
+      "result_danger": "A controla",
+      "unknown": "Nu este interpretat"
+    },
+    "search": {
+      "results_pick_the_right_meeting": "Vă rugăm să selectați programarea corectă:",
+      "results_visio": "Visio",
+      "results_former_name": "născut {0}",
+      "results_with_doctor": "cu {0}",
+      "results_no_previsit": "Fără pre-vizită",
+      "results_employee_app_meeting": "Vizita aplicației angajaților",
+      "results_archived_meeting": "Vizită arhivată",
+      "results_canceled_meeting": "Vizita anulată",
+      "popover_write_your_name": "Puteți scrie primele trei litere din numele dvs. obișnuit sau numele de naștere",
+      "popover_less_than_3_letters": "Dacă numele dvs. de familie este mai mic de trei litere, scrieți-l integral",
+      "popover_in_case_of_difficulties": "În caz de dificultăți, contactați medicul",
+      "enter_letters": "Introduceți primele trei litere ale numelui de familie",
+      "generic_error": "a avut loc o eroare",
+      "medical_team_error": "Echipa medicală nu se potrivește cu mediul dvs.",
+      "no_internet_error": "Fără conexiune internet",
+      "no_visit_found": "Nu a fost găsită nicio întâlnire pentru acest nume",
+      "contact_health_professional": "Vă mulțumim că v-ați apropiat de personalul medical.",
+      "wait_until_data_load": "Vă rugăm să așteptați în timp ce vizita dvs. se încarcă",
+      "submit": "Valida",
+      "pagination": {
+        "previous": "Anterior",
+        "next": "ca urmare a",
+        "in_total_count": "din {0}"
+      }
+    },
+    "inactivity_modal": {
+      "security_warning": "Mai esti aici ? Din motive de securitate, contul dvs. va fi deconectat în {0} secunde",
+      "still_here": "Sunt aici"
+    },
+    "exit_modal": {
+      "congrats": "Felicitări {0}!",
+      "previsit_finished": "Pre-vizita ta s-a încheiat",
+      "contact_pds_next": "Vă invităm să contactați profesionistul din domeniul sănătății care vă însoțește pentru a vă continua vizita de sănătate în muncă.",
+      "leave": "părăsi",
+      "keep_going": "Relua",
+      "finish": "finalizarea"
+    },
+    "exit_admin": {
+      "thank_you": "Mulțumesc {0},",
+      "exam_over": "această parte a vizitei s-a încheiat.",
+      "contact_health_professionals": "Vă rugăm să contactați profesioniștii din domeniul sănătății pentru a continua vizita.",
+      "only_for_health_professionals": "Informații rezervate profesioniștilor din domeniul sănătății&nbsp;:",
+      "firm_error_declared": "Angajatul a declarat că a existat o eroare în lista companiilor în care lucrează.",
+      "end_session": "Încheiați sesiunea",
+      "close": "A inchide"
+    },
+    "permission": {
+      "ask_for_permission": "Vă rugăm să permiteți accesul la cameră în ecranul următor.",
+      "no_permission_error": "Această autorizație este necesară pentru a continua! <br/>Vă rugăm să începeți din nou.",
+      "give_permission": "A permite"
+    },
+    "offline": {
+      "no_internet": "Hopa, computerul nu mai este conectat la rețea!",
+      "ask_for_help": "Vă invităm să cereți ajutor",
+      "ask_visit_manager": "persoanei care se ocupă de vizita de sănătate."
+    },
+    "server_error": {
+      "error_happened": "a avut loc o eroare",
+      "service_unavailable": "Serviciul este indisponibil pe scurt",
+      "please_retry_later": "Vă rugăm să încercați din nou peste câteva minute, echipele noastre tehnice vor corecta problema.",
+      "retry": "Încearcă din nou"
+    },
+    "unauthorized": {
+      "error_msg": "Nu sunteți autorizat să accesați aplicația pre-vizită.",
+      "get_help": "Vă mulțumim că v-ați apropiat de personalul medical.",
+      "retry": "Încearcă din nou"
+    },
+    "exam_error_modal": {
+      "error_msg": "Hopa, a apărut o eroare la salvarea rezultatelor.",
+      "get_help": "Vă invităm să cereți ajutor persoanei care se ocupă de vizita de sănătate.",
+      "leave": "părăsi"
+    }
+  }
+}

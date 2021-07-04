@@ -1,0 +1,422 @@
+{
+  "previsit": {
+    "onboarding": {
+      "hello_employee": "Hello {0},",
+      "invited_to_answer": "Your occupational health department invites you to take a questionnaire and conduct some exams",
+      "previsit_duration": "Tests run out of<br><b>15 to 30 minutes</b>",
+      "previsit_secure": "<b>Your data is secured.</b><br>Only you and the medical team can access it.",
+      "previsit_communication": "In case of difficulties, please get closer to the health professional",
+      "next": "Next",
+      "not_this_employee": "I'm not following {0}",
+      "cgu_security": "The information collected is stored in a computerized file by your workplace health department to create and update your workplace medical record.<br><br>They are intended only for your work doctor and, to its medic team, with respect to the technical and professional secrecy.<br><br>Conform to the law \"IT and Freedoms\", You can exercise your right to access the data concerning you and have them rectified by contacting the health service at work.<br><br>Data collection and processing is carried out by a subcontractor of the health service at work:<br>{0}<br><br>Data is hosted by an agreed-upon host of health data presenting all guarantees of security, privacy and robustness:<br>{1}<br>",
+      "confirm_cgu_security": "By clicking \"Next\", I expressly consent to the collection and processing of my health data in respect of the technical and professional secrecy.",
+      "add": "Add",
+      "change": "Edit",
+      "back": "Back",
+      "go_on": "Continue"
+    },
+    "firm": {
+      "work_for_firm": "Are you still in [this|these] company[s]?",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "email": {
+      "update_email_please": "Please update your email address",
+      "your_email": "<b>Your email</b> (required)",
+      "enter_email": "Enter your email",
+      "no_email": "No address provided",
+      "frequently_used": "Freely used",
+      "submit": "Validate",
+      "cancel": "Undo",
+      "email_utility": "The email allows you to securely access your visit results in your prefix area, to receive your summons, as well as notifications (cancellation, change visits, new documents…)",
+      "i_have_no_email_address": "I don't have an email address",
+      "yes": "Yes",
+      "no": "No",
+      "required_for_employee_app": "We remind you that without an email address you will not be able to connect to your prevention space and access all of your medical documents.",
+      "would_you_like_to_continue": "Do you want to continue?"
+    },
+    "personal_infos": {
+      "update_infos": "Update your personal information",
+      "infos_confidentiality": "This information is only intended for the health service and will not be passed on to your employer.",
+      "your_mobile_phone": "Your mobile phone number",
+      "no_mobile_phone": "No number provided",
+      "your_address": "Your mailing address",
+      "no_address": "No address provided",
+      "submit": "Validate",
+      "cancel": "Undo",
+      "phone_use": "Your phone number allows you to access your workspace.",
+      "phone_complementary_use": "It is also used to remind you by SMS the place and time of your visits of health at work.",
+      "address_use": "Your mailing address may be used by the health department to send you letters",
+      "address_use_example": "(e.g. additional examination orders)",
+      "disclaimer": "This information is only intended for the health service and will not be transmitted to your employer.",
+      "i_understand": "Got it",
+      "postal_address_update": "Please enter your postal address",
+      "street": "Enter your address",
+      "postal_code": "Zip Code",
+      "city": "City",
+      "phone_placeholder": "Type your number<br>Example: {0}"
+    },
+    "employee_picture": {
+      "picture_found": "A photo of you has been found<br>in your medical folder.",
+      "picture_not_found": "<b>You don't have any photos yet<br>associated with your profile.</b>",
+      "picture_purpose": "Your photo makes it easier for your medical team to identify you and improve the follow-up of your file.",
+      "do_not_add_picture": "I don't want to add a photo",
+      "change_picture": "Edit photo",
+      "add_picture": "Take a photo",
+      "position_yourself": "Center your head in the circle and then press the pink button.",
+      "take_picture": "Take Picture",
+      "try_again": "Start again",
+      "submit": "Validate"
+    },
+    "allow_dmst_transfer": {
+      "allow_transfer": "Authorization of transfer of the Medical Record",
+      "why_allow_transfer": "In the case of an unavailability or replacement of the health care professional following you, your health record will be forwarded to a replacement service who will take care of you in accordance with the medical secrecy.",
+      "see_more": "View more information",
+      "secured_tranfer": "This information is strictly confidential and is not communicated to your employer.",
+      "allow": "Authorize",
+      "refuse": "I don't allow"
+    },
+    "dmst_transfer_explanation": {
+      "title": "Transfer of health record ",
+      "law_code": "Labour Code, Art. L4624-8",
+      "law_article": {
+        "article_code": "Article L4624-8 of the labor code:",
+        "article_paragraph_one": "A medical record, constituted by the work doctor, retrace the worker’s health status with due respect for medical secrecy, to the exhibitions to which he was submitted, as well as the opinions and proposals of the work doctor, including those formulated in application of articles L. 624-3 and L.4624-4.",
+        "article_paragraph_two": "This file can only be communicated to the physician of his or her choice at the request of the entity. In the event of a risk to public health or at its request, the work doctor forwards it to the work inspector. This file may be communicated to another mechanic of work in the continuity of care unless refused by the worker.",
+        "article_paragraph_three": "The worker, or in the case of the latter any person authorized by articles L. 110-4 and L.1111-7 of the Public Health Code, may request the communication of this file."
+      },
+      "intro": "Your workplace health centre processes your collected data to ensure your workplace care.",
+      "dmst_transfer": "As part of your follow-up continuity, your medical record can be communicated to your new doctor who will be in charge of you:",
+      "transfer_mail": "by mail or e-mail: in this case, you can oppose this communication by informing the staff of the workplace health centre that takes care of you;",
+      "transfer_digital": "through a shared computer record allowing other doctors to have access to your medical history necessary for your follow-up: in this case Your consent to the sharing is collected and may be withdrawn at any time.",
+      "transfer_importance": "This communication is necessary for the prevention of your professional risks and the preservation of your health, so that you follow up correctly, efficiently, and accurately by the different metrics of the work that will be brought to complete your follow-up.",
+      "transfer_conclusion": "To reach this finality, the Work Desk needs full support as the work is evaluated to allow you to track the evolution of your health status over time, her outstanding exhibitions (including those that may cause professional pathologies), aptitude restrictions and any other recommendations.",
+      "confidentiality_clause": "All of these professionals are subject to the confidentiality of this information.",
+      "close": "Close"
+    },
+    "bluetooth": {
+      "pairing_timeout": "The connection to the bluetooth device was not successful.",
+      "scan_cancelled": "Searching for new bluetooth devices has been cancelled.",
+      "request_error": "An error occurred while searching for new devices.",
+      "no_response_from_device": "The bluetooth device does not respond.",
+      "bluetooth_not_enabled": "Unable to connect to your computer's bluetooth. Tests using the blood pressure monitor and the connected balance will not be available.",
+      "devices_not_registered": "The balance and the blood pressure monitor is currently not recorded in the system: you will not be able to measure your weight or voltage.",
+      "scale_not_registered": "The Scale is currently not registered in the system: you will not be able to measure your weight.",
+      "pressure_not_registered": "The balance and the blood pressure monitor is currently not recorded in the system: you will not be able to measure your weight or blood pressure.",
+      "list_devices_error": "Failed to get list of connected bluetooth devices.",
+      "error_modal": {
+        "results_not_received": "Test result was not transmitted to the application *",
+        "finish_manually": "Manually specify result",
+        "retry_test": "Restart test",
+        "help_from_handler": "(*) Do not hesitate to ask the tour manager for help"
+      }
+    },
+    "settings": {
+      "bluetooth": {
+        "add_device": "Add",
+        "add_new_device": "Add new bluetooth device",
+        "n_connected_devices": "You currently have {0} object[s] saved[s]:",
+        "blood_pressure": "Blood pressure monitor",
+        "scale": "Scale",
+        "cant_pair_device": "I can't connect my device",
+        "what_kind_of_device_you_want_to_add": "What type of object would you like to add?",
+        "blood_pressure_monitor_instruction": "Get the blood pressure monitor and press the start button for a few seconds...",
+        "scale_instruction": "Press the button on the back of the scale to enable the search mode",
+        "web_bluetooth_unavailable": "Bluetooth web not available.",
+        "use_feature_flags": "Please enable the following Google Chrome feature flags before pairing:",
+        "web_bluetooth_new_permissions_backend_ff": "enable-web-bluetooth-new-permissions-backend",
+        "experimental_web_platform_features_ff": "enable-experimental-web-platform-features",
+        "relaunch_pairing": "Restart pairing",
+        "device_paired": "Your device is currently paired"
+      },
+      "general": {
+        "admin": "Administrator",
+        "pair_devices": "Item Pairing",
+        "technical_settings": "Technical Settings",
+        "enter_password": "Enter your administrator password:",
+        "wrong_password": "The entered password is incorrect",
+        "password": "Password",
+        "leave": "Exit application",
+        "submit": "Validate",
+        "contact_us": "Contact Us",
+        "contact_us_at": "By phone: {0}",
+        "contact_us_on": "From 8:30 am to 6:30 pm Monday to Friday"
+      },
+      "technical_settings": {
+        "title": "Technical Settings",
+        "tutorial": "Speech",
+        "disable_context_menu": "Disable context menu (right click)",
+        "request_fullscreen": "Enable automatic fullscreen switching"
+      }
+    },
+    "carousel": {
+      "select_test": "Select an exam",
+      "exam_not_done": "You haven't finished your tests, are you sure you want to log out?"
+    },
+    "form": {
+      "answer": "Validate",
+      "skip_answer": "I don't want to answer",
+      "skip_answer_confirmation": "Are you sure you want to skip the question?",
+      "confirm_skip": "Yes, skip",
+      "deny_skip": "No, answer",
+      "subtitle": "Template",
+      "done": "Completed",
+      "back": "Back",
+      "privacy": "Quiz Confidentiality",
+      "privacy_text": "Your answers to the questionnaire are confidential.",
+      "secret": "All this information is subject to legal confidentiality and cannot be disclosed to your employer.",
+      "labor_code": "Labour Code, Art. L4624-8",
+      "labor_code_article": "A medical record created by the work mechanic retrace in the respect of the medical secret the information related to the health status of the worker, to the exhibitions to which he was submitted, as well as the opinions and proposals of the work doctor, including those formulated in application of articles L. This file can only be communicated to the researcher of his or her choice, upon request of the integer. In the event of a risk to public health or at its request, the work doctor forwards it to the work inspector. This file may be communicated to another mechanic of work in the continuity of care unless refused by the worker. The worker, or in the case of the latter any person authorized by articles L. 1110-4 and L. 1111-7 of the Public Health Code, may request the communication of this file.",
+      "understood": "Got it",
+      "leave_warning": "Are you sure you want to leave the questionnaire and return to the home page?",
+      "progress_text": "Completed"
+    },
+    "blood_pressure": {
+      "title": "blood pressure",
+      "take_device": "<b>Get the blood pressure monitor</b> by unplugging it if needed.",
+      "position_device": "<b>Scratch without forcing the blood pressure monitor around your left forearm</b> (after passing the strap into the loop)",
+      "position_device_2": "The screen should be facing you, in the right direction and at two centimeters of your wrist.",
+      "position_yourself": "<b>Put the elbow on the array,</b> the hand facing the heart.",
+      "position_yourself_2": "Make sure you do not move during measurement.",
+      "measure_explanation": "<b>During measurement, the bracelet inflates and tightens the forearm.</b> It swells alone after about 30 seconds.",
+      "ready": "When you are ready, press <b>the \"Start\" button</b> on the pressure panel",
+      "measure_end": "<b>The measurement is completed</b> when you hear a <b>\"BIP\"</b>.",
+      "next_step": "Next",
+      "prev_step": "Back",
+      "help": "I can't pick up my blood pressure.",
+      "manual_input": "<b>Please specify manually the measurements</b> shown on the blood pressure monitor:",
+      "normal_results_title": "<b>Your blood pressure is normal</b>",
+      "to_monitor_results_title": "<b>Your blood pressure is controlled</b>",
+      "normal_results": "The measurement indicates a normal blood pressure, nevertheless, if you have a doubt or question, we invite you to talk to your doctor",
+      "to_monitor_results": "The measurement indicates a blood pressure <b>higher than the</b>. No worries, the blood pressure measurement can vary according to many parameters, even within a single day. We recommend that you check it <b>by your doctor anytime.</b>",
+      "did_you_know": "Did you know?",
+      "systolic": "<b><i>systolic voltage (SYS)</i></b> corresponds to blood pressure in the arteries during the heart contraction phase, or systemic.",
+      "diastolic": "<b><i>Diastolic voltage (DIA)</i></b> corresponds to blood pressure in the arteries during the heart relaxation phase, or diastole.",
+      "pulsation": "<b><i>Heart rate (PUL/min or BPM)</i></b> is the number of heart beats (or pulses) per minute.",
+      "input_error": "Value must be between {0} and {1} mmHg",
+      "leave_warning": "Are you sure you want to exit the blood pressure measurement and return to the home page?",
+      "end": "Finish"
+    },
+    "near_vision": {
+      "title": "Preview",
+      "question_reading_tools": "Do you wear <b>glasses</b> or <b>lenses</b> to read?",
+      "question_wear_glasses": "<b>Will you wear them during this test?</b> (recommended)",
+      "double_glasses": "If you wear double home glasses, consider looking through the bottom of the glasses",
+      "placement": "<b>Place yourself at 40 cm from the screen, facing the</b> circle",
+      "automatic_detection": "The app automatically detects the distance of your face.",
+      "closer_to_screen": "<b>Get closer to the screen</b>",
+      "further_from_screen": "<b>Move away from the screen</b>",
+      "right_distance": "<b>Distance ok. Stop moving</b>",
+      "not_detected": "<b>Please position yourself on screen</b>",
+      "no_camera": "<b>Waiting for access to your device</b>",
+      "placement_not_detected": "<b>The distance between your face and the screen has not been detected.</b>",
+      "test_still_possible": "You can perform the test by placing your face about 40cm from your screen.",
+      "i_am_not_detected": "I'm not detected",
+      "i_understand": "Got it",
+      "click_on_symbol": "<b>Click the key corresponding to the underlined symbol</b>",
+      "touch_arrow": "Touch the arrow in the center of the keyboard when not distinguishing it",
+      "partner": "Test completed in partnership with",
+      "rectify": "Correct",
+      "yes": "Yes",
+      "no": "No",
+      "done": "Finish",
+      "normal_results_title": "<b>Your preview seems normal</b>",
+      "normal_results": "To check the health of your eyes in greater depth, don't hesitate to make an appointment with <b>a professional of vision.</b>",
+      "to_monitor_results_title": "<b>Your preview is controlled</b>",
+      "to_monitor_results": "In case you made some errors, we recommend that you <b>check your view</b> by a vision professional.",
+      "did_you_know": "Did you know?",
+      "parinaud": "<b>The parinaud scale measures the visual acuity of pres, i.e. the reading ability:</b>",
+      "parinaud_boundaries": "P2 is a normal visual acuity and P14 a low visual acuity.",
+      "leave_warning": "Are you sure you want to exit the vision test and return to the home page?",
+      "result": {
+        "visual_prothesis": "Visual correction: {0}",
+        "distance_with_unit": "Distance: {0} cm"
+      }
+    },
+    "weight": {
+      "title": "BMI - Body Mass Index",
+      "leave_warning": "Are you sure you want to leave your weight measurement and go back to the home page?",
+      "back": "Back",
+      "next": "Next",
+      "continue": "Continue",
+      "pacemaker": {
+        "do_you_wear_a_pacemaker": "Do you wear a pacemaker (or \"Heart Stack\")?",
+        "explanation": "In case of pacemaker port, the use of the electronic Scale to calculate your body mass index is not recommended",
+        "no": "No",
+        "yes": "Yes I wear a pacemaker",
+        "confirm_yes": "Do you really want to confirm that you are wearing a pacemaker?",
+        "cancel_btn": "Undo",
+        "confirm_btn": "Confirm"
+      },
+      "enter_size": {
+        "enter_your_size": "Specify your size",
+        "i_dont_known": "I do not know my size."
+      },
+      "measure_size": {
+        "use_the_ruler_on_the_wall": "If you don't know your size,\nuse the metre hanging on the wall."
+      },
+      "measure_weight": {
+        "cannot_measure_weight": "I can't get my weight.",
+        "step_on_the_scale": "<b>Move up to the scale</b> (on hard ground) <b>and wait.</b>",
+        "wait_for_the_bip": "The measurement is completed when you hear a \"BIP\"."
+      },
+      "enter_weight": {
+        "enter_your_weight": "Please <b>manually enter weight</b> indicated on Scale:"
+      },
+      "weight_bar": {
+        "footer_bmi": "BMI",
+        "footer_weight": "Weight"
+      },
+      "results": {
+        "normal_results_title": "Your weight seems normal",
+        "normal_results": "Your BMI is {0}, the international scale indicates that <b>you have normal corpulence</b>.",
+        "to_monitor_results_title": "Your weight should be monitored",
+        "to_monitor_results": "Your BMI is {0}, the international scale indicates that your weight should be monitored.<br>Controlling its weight is an important health factor. You can <b>consult a physician or nutritionist if you wish.</b>",
+        "no_results_title": "This test is not suitable for patients with a pacemaker (or \"Heart Stack\")",
+        "no_results": "This test is not recommended",
+        "did_you_know": "Did you know?",
+        "bmi_explanation": "BMI is an indicator of your corpulence to estimate the risks associated with overweight and thinness. Nevertheless this measure represents limits (e.g. not taking into account the morphology of the individual, overestimating women and sportsmen, etc. and does not replace a medical diagnosis.",
+        "card_title": "weight",
+        "pacemaker_subject": "subject with heart cell",
+        "end": "Finish",
+        "bmi": "BMI"
+      }
+    },
+    "audio": {
+      "title": "Hearing",
+      "exitWarningMessage": "Are you sure you want to exit the hearing test and return to the home page?",
+      "intro": {
+        "explanation": "This test is a repeat of some hearing difficulties, allowing you to evaluate your ability to recognize voices in a noisy environment.",
+        "biauricular": "(This biauricular test only evaluates your best ear)",
+        "quiet": "To ensure the reliability of the result, we invite you to test in a quiet room.",
+        "continue": "Continue"
+      },
+      "hearing_aid": {
+        "has_hearing_aid": "Do you have hearing aids?",
+        "no": "No",
+        "yes": "Yes",
+        "occasionally": "Occasionally"
+      },
+      "headphone": {
+        "plug_it": "Please use the <b>headset</b> and plug it in to the computer.",
+        "previous": "Back",
+        "next": "Next",
+        "need_help": "I can't plug the headset",
+        "nurse_help": "Please notify the nurse to ask her to help you connect the headset",
+        "resume": "Resume"
+      },
+      "tutorial_input_digits": {
+        "hear_digit_triplet": "You will hear a sequence of <b>3 digits.</b> These numbers are emitted into a variable background noise",
+        "easy_difficult_test": "The test is therefore sometimes easy, sometimes difficult.",
+        "ok": "Ok"
+      },
+      "tutorial_hear_digits": {
+        "input_digits": "Type the numbers you will hear on the screen.",
+        "input_dash": "Type the hyphen (-) when you don't hear a number correctly.",
+        "start": "Start"
+      },
+      "test": {
+        "set": "Series {0}/20",
+        "listen": "Listen carefully",
+        "click_on_the_numbers_you_heard": "Type the numbers you just heard on the screen,",
+        "click_on_hyphen": "Tap the dash when you haven't heard the number"
+      },
+      "results": {
+        "noise_ratio": "(*) Noise signal ratio",
+        "noise_ratio_abbreviation": "RSB *",
+        "noise_ratio_with_unit": "{0} dB",
+        "has_prothesis": "Device subject",
+        "end": "Finish",
+        "normal_results_title": "Your hearing seems normal",
+        "normal_results_text": "However, if you have an auditory gem minus <b>Don’t schedule an appointment with an ORL doctor</b> or talk to your occupational health professional.",
+        "to_monitor_results_title": "Your hearing may be to monitor",
+        "to_monitor_results_text": "<b>Don’t make an appointment with an ORL doctor</b> for a thorough review of your hearing or talk to your occupational health professional",
+        "no_results_title": "This test is not suitable for patients already equipped",
+        "no_results_text": "This test only repeats certain hearing difficulties.<br>It is not calibrated for patients whose hearing difficulties have been.<br>These must be adjusted by an ORL doctor.",
+        "did_you_know": "Did you know?",
+        "audiometry_stats": "The Minister of Health estimates that more than 50% of the hearing impaired in France has never had an assessment of their hearing ability. For example, only 15% of people with hearing impairments are used in France, compared with 30% in Denmark.",
+        "to_monitor": "To be monitored",
+        "normal": "Normal",
+        "good": "Good"
+      }
+    },
+    "test_results": {
+      "result_success": "Normal",
+      "result_danger": "To be controlled",
+      "unknown": "Not interpreted"
+    },
+    "search": {
+      "results_pick_the_right_meeting": "Please select the correct appointment:",
+      "results_visio": "Video",
+      "results_former_name": "nee {0}",
+      "results_with_doctor": "with {0}",
+      "results_no_previsit": "No previsit",
+      "results_employee_app_meeting": "Visit salaried app",
+      "results_archived_meeting": "Archived tour",
+      "results_canceled_meeting": "Visit anula",
+      "popover_write_your_name": "You can write the first three letters of your username or birth name",
+      "popover_less_than_3_letters": "If your last name has less than three letters, write it in whole",
+      "popover_in_case_of_difficulties": "In case of difficulties, contact the health professional",
+      "enter_letters": "Enter the first three letters of your last name",
+      "generic_error": "An error occurred",
+      "medical_team_error": "The medical team does not match your environment",
+      "no_internet_error": "No internet connection",
+      "no_visit_found": "No appointments found at this name",
+      "contact_health_professional": "Thank you for coming closer to the health professional.",
+      "wait_until_data_load": "Please wait while your visit is being loaded",
+      "submit": "Validate",
+      "pagination": {
+        "previous": "Previous",
+        "next": "Next",
+        "in_total_count": "on {0}"
+      }
+    },
+    "inactivity_modal": {
+      "security_warning": "Are you still in? Your account will be disconnected in {0} seconds",
+      "still_here": "I am"
+    },
+    "exit_modal": {
+      "congrats": "Explicit {0}!",
+      "previsit_finished": "Your previsit has been completed",
+      "contact_pds_next": "We invite you to contact the health care professional who is accompanying you to continue your work health visit",
+      "leave": "Exit",
+      "keep_going": "Resume",
+      "finish": "Finish"
+    },
+    "exit_admin": {
+      "thank_you": "Thank you {0},",
+      "exam_over": "this part of the tour is over.",
+      "contact_health_professionals": "Please contact the health professionals to continue the visit.",
+      "only_for_health_professionals": "Information reserved for health care professionals&nbsp;",
+      "firm_error_declared": "The employee stated that there was an error on the list of companies in which he works.",
+      "end_session": "End session",
+      "close": "Close"
+    },
+    "permission": {
+      "ask_for_permission": "Please allow access to the hook on the next screen.",
+      "no_permission_error": "This permission is required to continue! <br/>Please try again.",
+      "give_permission": "Authorize"
+    },
+    "offline": {
+      "no_internet": "Oops, the computer is no longer connected to the network!",
+      "ask_for_help": "We invite you to request help",
+      "ask_visit_manager": "to the person responsible for the health visit."
+    },
+    "server_error": {
+      "error_happened": "An error occurred",
+      "service_unavailable": "The service is short unavailable",
+      "please_retry_later": "Please try again in a few minutes, our technical teams are fixing the problem.",
+      "retry": "Try again"
+    },
+    "unauthorized": {
+      "error_msg": "You do not have permission to access the current application.",
+      "get_help": "Thank you for coming closer to the health professional.",
+      "retry": "Try again"
+    },
+    "exam_error_modal": {
+      "error_msg": "Oops, an error occurred while saving the results.",
+      "get_help": "We invite you to ask for help from the health visitor.",
+      "leave": "Exit"
+    }
+  }
+}

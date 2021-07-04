@@ -1,0 +1,422 @@
+{
+  "previsit": {
+    "onboarding": {
+      "hello_employee": "Hola {0}",
+      "invited_to_answer": "Tu servicio de salud ocupacional te invita a responder un cuestionario y realizar algunos exámenes",
+      "previsit_duration": "La serie de exámenes dura<br><b>15 a 30 minutos</b>",
+      "previsit_secure": "<b>Sus datos están seguros.</b><br>Solo usted y el equipo médico pueden acceder a él.",
+      "previsit_communication": "En caso de dificultades, póngase en contacto con el profesional de la salud.",
+      "next": "Próximo",
+      "not_this_employee": "No soy {0}",
+      "cgu_security": "La información recopilada es registrada en un archivo computarizado por su servicio de salud ocupacional para crear y actualizar su expediente médico de salud ocupacional.<br><br>Están destinados únicamente a su médico del trabajo y, en caso de delegación, a su equipo médico, en cumplimiento del secreto médico y profesional.<br><br>De acuerdo con la ley “Informatique et Libertés”, puede ejercer su derecho de acceso a los datos que le conciernen y rectificarlos contactando con el servicio de salud laboral.<br><br>Los datos son recogidos y tratados técnicamente por un subcontratista del servicio de salud ocupacional:<br>{0}<br><br>Los datos son alojados por un host de datos sanitarios homologado con todas las garantías de seguridad, confidencialidad y robustez:<br>{1}<br>",
+      "confirm_cgu_security": "Al hacer clic en \"siguiente\", doy mi consentimiento expreso para la recopilación y el procesamiento de mis datos de salud en cumplimiento del secreto médico y profesional.",
+      "add": "Agregar",
+      "change": "Editar",
+      "back": "Regreso",
+      "go_on": "seguir"
+    },
+    "firm": {
+      "work_for_firm": "¿Sigues trabajando en [esta | estas] empresa[s]?",
+      "yes": "sí",
+      "no": "No"
+    },
+    "email": {
+      "update_email_please": "Actualice su dirección de correo electrónico.",
+      "your_email": "<b>Su dirección de correo electrónico</b> (obligatorio)",
+      "enter_email": "Introduce tu correo electrónico",
+      "no_email": "No se proporcionó dirección",
+      "frequently_used": "Usado frecuentemente",
+      "submit": "Validar",
+      "cancel": "anular",
+      "email_utility": "El correo electrónico le permite acceder de forma segura a los resultados de su visita en su espacio de prevención, para recibir sus invitaciones así como notificaciones (cancelación, modificación de visita, nuevos documentos…)",
+      "i_have_no_email_address": "No tengo una dirección de correo electrónico",
+      "yes": "sí",
+      "no": "No",
+      "required_for_employee_app": "Le recordamos que sin una dirección de correo electrónico, no podrá conectarse a su espacio de prevención y acceder a todos sus documentos médicos.",
+      "would_you_like_to_continue": "Te gustaria continuar ?"
+    },
+    "personal_infos": {
+      "update_infos": "Actualice su información personal",
+      "infos_confidentiality": "Esta información está destinada únicamente al servicio de salud y en ningún caso se transmitirá a su empleador.",
+      "your_mobile_phone": "tu número de teléfono",
+      "no_mobile_phone": "No se ingresó ningún número",
+      "your_address": "Su dirección postal",
+      "no_address": "No se proporcionó dirección",
+      "submit": "Validar",
+      "cancel": "anular",
+      "phone_use": "Su número de teléfono proporciona acceso a su espacio de empleados.",
+      "phone_complementary_use": "También se utiliza para recordarle por SMS el lugar y la hora de sus visitas de salud ocupacional.",
+      "address_use": "El servicio de salud puede utilizar su dirección postal para enviarle cartas",
+      "address_use_example": "(por ejemplo, recetas para exámenes adicionales)",
+      "disclaimer": "Esta información solo está destinada al servicio de salud y no se transmitirá a su empleador.",
+      "i_understand": "He entendido",
+      "postal_address_update": "Ingrese su dirección postal",
+      "street": "Ingrese su direccion",
+      "postal_code": "Código postal",
+      "city": "Ciudad",
+      "phone_placeholder": "Ingrese su número<br>Ejemplo: {0}"
+    },
+    "employee_picture": {
+      "picture_found": "Se ha encontrado una foto suya<br>en sus registros médicos.",
+      "picture_not_found": "<b>Aún no tienes una foto<br>asociada a tu perfil.</b>",
+      "picture_purpose": "Tu foto permite a tu equipo médico identificarte más fácilmente y mejorar el seguimiento de tu expediente.",
+      "do_not_add_picture": "No quiero agregar una foto",
+      "change_picture": "Editar foto",
+      "add_picture": "Tomar una fotografía",
+      "position_yourself": "Centre su cabeza en el círculo y luego presione el botón rosa.",
+      "take_picture": "Sacar la foto",
+      "try_again": "Reanudar",
+      "submit": "Validar"
+    },
+    "allow_dmst_transfer": {
+      "allow_transfer": "Autorización para la transferencia del Expediente Médico de Salud Ocupacional",
+      "why_allow_transfer": "En caso de indisponibilidad o reposición del profesional de salud ocupacional que le sigue, su expediente médico será enviado a un recambio en el servicio, quien lo atenderá de acuerdo con la confidencialidad médica.",
+      "see_more": "Ver más información",
+      "secured_tranfer": "Esta información es estrictamente confidencial y bajo ninguna circunstancia se comunica a su empleador.",
+      "allow": "Yo autorizo",
+      "refuse": "No permito"
+    },
+    "dmst_transfer_explanation": {
+      "title": "Transferencia del expediente de salud laboral",
+      "law_code": "Código del Trabajo, art. L4624-8",
+      "law_article": {
+        "article_code": "Artículo L4624-8 del código laboral:",
+        "article_paragraph_one": "Un expediente médico de salud ocupacional, elaborado por el médico del trabajo, recoge, en cumplimiento de la confidencialidad médica, información relativa al estado de salud del trabajador, a las exposiciones a las que ha sido sometido, así como las opiniones y propuestas del médico del trabajo. .trabajos, en particular los formulados en aplicación de los artículos L.4624-3 y L.4624-4.",
+        "article_paragraph_two": "Este expediente sólo podrá ser comunicado al médico de su elección, a petición del interesado. En caso de riesgo para la salud pública oa petición suya, el médico del trabajo lo remite al médico inspector del trabajo. Este expediente puede ser comunicado a otro médico del trabajo en la continuidad de la atención, a menos que el trabajador se niegue.",
+        "article_paragraph_three": "El trabajador, o en caso de fallecimiento cualquier persona autorizada por los artículos L.1110-4 y L.1111-7 del Código de Salud Pública, podrá solicitar la comunicación de este expediente."
+      },
+      "intro": "Su centro de salud ocupacional procesa sus datos recopilados para garantizar su atención médica ocupacional.",
+      "dmst_transfer": "Como parte de la continuidad de su seguimiento, su expediente médico se puede comunicar a su nuevo médico ocupacional que participa en su atención:",
+      "transfer_mail": "por correo o mensajería: en este caso, puede oponerse a esta comunicación informando por cualquier medio al personal del centro de salud ocupacional que le atienda;",
+      "transfer_digital": "a través de un archivo informático compartido que permite a otros médicos ocupacionales tener acceso a su historial médico necesario para su seguimiento: en este caso, su consentimiento para compartir se recopila y puede retirarse en cualquier momento.",
+      "transfer_importance": "Esta comunicación es necesaria para la prevención de sus riesgos laborales y la preservación de su salud, por lo tanto de su correcto, eficiente y preciso seguimiento por parte de los distintos médicos del trabajo que serán requeridos para realizar su seguimiento.",
+      "transfer_conclusion": "Para lograr este objetivo, el médico del trabajo necesita un apoyo complementado a medida que se realicen los exámenes previstos por la normativa laboral para permitir que la evolución de su estado de salud y sus exposiciones notables sean monitoreadas a lo largo del tiempo (en particular, las que probablemente sean origen de patologías laborales), restricciones de aptitud y cualquier otra recomendación.",
+      "confidentiality_clause": "Todos estos profesionales están sujetos a la confidencialidad de esta información.",
+      "close": "Cerrar"
+    },
+    "bluetooth": {
+      "pairing_timeout": "La conexión con el dispositivo bluetooth no se realizó correctamente.",
+      "scan_cancelled": "Se canceló la búsqueda de nuevos dispositivos bluetooth.",
+      "request_error": "Se produjo un error al buscar nuevos dispositivos.",
+      "no_response_from_device": "El dispositivo bluetooth no responde.",
+      "bluetooth_not_enabled": "No se puede conectar al bluetooth de su computadora. Las pruebas que utilizan el monitor de presión arterial y la báscula conectada no estarán disponibles.",
+      "devices_not_registered": "La báscula y el monitor de presión arterial no están registrados actualmente en el sistema: no podrá medir su peso ni su presión arterial.",
+      "scale_not_registered": "La báscula no está registrada actualmente en el sistema: no podrá medir su peso.",
+      "pressure_not_registered": "El monitor de presión arterial no está registrado actualmente en el sistema: no podrá medir su presión arterial.",
+      "list_devices_error": "No se puede obtener la lista de dispositivos bluetooth conectados.",
+      "error_modal": {
+        "results_not_received": "El resultado de la prueba no se transmitió a la aplicación *",
+        "finish_manually": "Indicar el resultado manualmente",
+        "retry_test": "Repite la prueba",
+        "help_from_handler": "(*) No dude en pedir ayuda al responsable de la visita"
+      }
+    },
+    "settings": {
+      "bluetooth": {
+        "add_device": "Agregar",
+        "add_new_device": "Agregar un nuevo dispositivo bluetooth",
+        "n_connected_devices": "Actualmente tiene {0} objeto[s] guardado[s]:",
+        "blood_pressure": "Monitor de presión arterial",
+        "scale": "Equilibrio",
+        "cant_pair_device": "No puedo conectar mi dispositivo",
+        "what_kind_of_device_you_want_to_add": "¿Qué tipo de objeto desea agregar?",
+        "blood_pressure_monitor_instruction": "Tome el monitor de presión arterial y presione el botón de inicio durante unos segundos ...",
+        "scale_instruction": "Presione el botón en la parte posterior de la báscula para activar el modo de búsqueda",
+        "web_bluetooth_unavailable": "Web Bluetooth no disponible.",
+        "use_feature_flags": "Active las siguientes marcas de funciones de Google Chrome antes de iniciar el emparejamiento:",
+        "web_bluetooth_new_permissions_backend_ff": "enable-web-bluetooth-new-permissions-backend",
+        "experimental_web_platform_features_ff": "enable-experimental-web-platform-features",
+        "relaunch_pairing": "Reiniciar el emparejamiento",
+        "device_paired": "Tu dispositivo ahora está emparejado"
+      },
+      "general": {
+        "admin": "Administración",
+        "pair_devices": "Emparejamiento de objetos",
+        "technical_settings": "Configuraciones técnicas",
+        "enter_password": "Ingrese su contraseña de administrador:",
+        "wrong_password": "La contraseña ingresada es incorrecta",
+        "password": "Contraseña",
+        "leave": "Salir de la aplicación",
+        "submit": "Validar",
+        "contact_us": "Contáctenos",
+        "contact_us_at": "Por teléfono: {0}",
+        "contact_us_on": "8:30 a.m. a 6:30 p.m. de lunes a viernes"
+      },
+      "technical_settings": {
+        "title": "Configuraciones técnicas",
+        "tutorial": "Voz del narrador",
+        "disable_context_menu": "Deshabilitar el menú contextual (clic derecho)",
+        "request_fullscreen": "Habilitar el cambio automático a pantalla completa"
+      }
+    },
+    "carousel": {
+      "select_test": "Seleccione un examen",
+      "exam_not_done": "No ha terminado sus pruebas, ¿está seguro de que desea cerrar la sesión?"
+    },
+    "form": {
+      "answer": "Validar",
+      "skip_answer": "No deseo contestar",
+      "skip_answer_confirmation": "¿Está seguro de que desea omitir la pregunta?",
+      "confirm_skip": "Si pasa",
+      "deny_skip": "Sin respuesta",
+      "subtitle": "Encuesta",
+      "done": "Terminado",
+      "back": "Volver",
+      "privacy": "Confidencialidad del cuestionario",
+      "privacy_text": "Sus respuestas al cuestionario son confidenciales.",
+      "secret": "Toda esta información se mantiene bajo confidencialidad médica y en ningún caso puede ser comunicada a su empleador.",
+      "labor_code": "Código del Trabajo, art. L4624-8",
+      "labor_code_article": "Un expediente médico de salud ocupacional, elaborado por el médico del trabajo, recoge, en cumplimiento de la confidencialidad médica, información relativa al estado de salud del trabajador, a las exposiciones a las que ha sido sometido, así como las opiniones y propuestas del trabajo, en en particular los formulados en aplicación de los artículos L. 4624-3 y L. 4624-4. Este expediente sólo podrá ser comunicado al médico de su elección, a petición del interesado. En caso de riesgo para la salud pública oa petición suya, el médico del trabajo lo remite al médico inspector del trabajo. Este expediente puede ser comunicado a otro médico del trabajo en la continuidad de la atención, a menos que el trabajador se niegue. El trabajador, o en caso de fallecimiento, cualquier persona autorizada por los artículos L. 1110-4 y L. 1111-7 del Código de Salud Pública, podrá solicitar la comunicación de este expediente.",
+      "understood": "He entendido",
+      "leave_warning": "¿Está seguro de que desea salir del cuestionario y volver a la página de inicio?",
+      "progress_text": "Terminado"
+    },
+    "blood_pressure": {
+      "title": "Voltaje",
+      "take_device": "<b>Tome el monitor de presión arterial</b> desenchufándolo si es necesario.",
+      "position_device": "<b>Rasque sin forzar el monitor de presión arterial alrededor de su antebrazo izquierdo</b> (después de pasar la correa por la hebilla)",
+      "position_device_2": "La pantalla debe mirar hacia usted, hacia arriba y a dos pulgadas de su muñeca.",
+      "position_yourself": "<b>Coloque su codo sobre la mesa,</b> su mano mirando hacia su corazón.",
+      "position_yourself_2": "Tenga cuidado de no moverse durante la medición.",
+      "measure_explanation": "<b>Durante la medición, la pulsera se infla y aprieta el antebrazo con fuerza.</b> Se desinfla por sí solo después de unos 30 segundos.",
+      "ready": "Cuando esté listo, presione <b>el botón \"Inicio\"</b> en el monitor de presión arterial",
+      "measure_end": "<b>La medición finaliza</b> cuando escuche un <b>\"BEEP\"</b>.",
+      "next_step": "Próximo",
+      "prev_step": "Regreso",
+      "help": "No puedo tomarme la presión arterial.",
+      "manual_input": "<b>Indique manualmente las medidas</b> muestran en el monitor de presión arterial:",
+      "normal_results_title": "<b>Su presión arterial es normal</b>",
+      "to_monitor_results_title": "<b>Debe comprobar su voltaje</b>",
+      "normal_results": "La medición indica presión arterial normal, sin embargo, si tiene alguna duda o pregunta, lo invitamos a hablar con su médico ocupacional.",
+      "to_monitor_results": "La medida indica un voltaje <b>superior al estándar</b>. No se preocupe, la medida de la tensión puede variar según muchos parámetros, incluso dentro de un mismo día. Recomendamos en todo momento hacer <b>comprobaciones por parte de su médico de cabecera.</b>",
+      "did_you_know": "Sabías ?",
+      "systolic": "<b><i>Presión sistólica (SYS)</i></b> es la presión arterial en las arterias durante la fase de contracción del corazón o sístole.",
+      "diastolic": "<b><i>Presión diastólica (DIA)</i></b> corresponde a la presión arterial en las arterias durante la fase de relajación del corazón o diástole.",
+      "pulsation": "<b><i>Frecuencia cardíaca (PUL / min o BPM)</i></b> es el número de latidos (o pulsaciones) por minuto.",
+      "input_error": "El valor debe estar entre {0} y {1} mmHg",
+      "leave_warning": "¿Está seguro de que desea dejar de tomarse la presión arterial y volver a la página de inicio?",
+      "end": "Terminar"
+    },
+    "near_vision": {
+      "title": "Visión de cerca",
+      "question_reading_tools": "¿Usas <b>anteojos</b> o <b>lentes</b> para leer?",
+      "question_wear_glasses": "<b>¿Los vas a usar durante esta prueba?</b> (recomendado)",
+      "double_glasses": "Si usa bifocales, considere mirar por la parte inferior de las gafas",
+      "placement": "<b>Colóquese a 40 cm de la pantalla, frente al círculo</b>",
+      "automatic_detection": "La aplicación detecta automáticamente la distancia desde tu rostro.",
+      "closer_to_screen": "<b>Acérquese a la pantalla</b>",
+      "further_from_screen": "<b>Aléjese de la pantalla</b>",
+      "right_distance": "<b>Distancia ok. No te muevas</b>",
+      "not_detected": "<b>Colóquese frente a la pantalla</b>",
+      "no_camera": "<b>Esperando acceso a la cámara de su dispositivo</b>",
+      "placement_not_detected": "<b>No se ha detectado la distancia entre su rostro y la pantalla.</b>",
+      "test_still_possible": "Puede realizar la prueba colocando su rostro aproximadamente a 40 cm de su pantalla.",
+      "i_am_not_detected": "No soy detectado",
+      "i_understand": "He entendido",
+      "click_on_symbol": "<b>Haga clic en la tecla correspondiente al símbolo subrayado</b>",
+      "touch_arrow": "Toque la flecha en el centro del teclado cuando no pueda verlo",
+      "partner": "Prueba realizada en colaboración con",
+      "rectify": "Corregir",
+      "yes": "sí",
+      "no": "No",
+      "done": "Terminar",
+      "normal_results_title": "<b>Su visión de cerca parece normal</b>",
+      "normal_results": "Para más cheque de la salud de sus ojos, no dude en hacer una cita con <b>un profesional de la visión.</b>",
+      "to_monitor_results_title": "<b>Compruebe su visión de cerca</b>",
+      "to_monitor_results": "Si ha cometido algunos errores, le recomendamos <b>que un oculista le revise la vista</b>",
+      "did_you_know": "Sabías ?",
+      "parinaud": "<b>La escala de Parinaud mide la agudeza visual cercana, es decir, la capacidad de lectura:</b>",
+      "parinaud_boundaries": "P2 se considera agudeza visual normal y P14 agudeza visual muy pobre.",
+      "leave_warning": "¿Está seguro de que desea salir de la prueba de visión cercana y volver a la página de inicio?",
+      "result": {
+        "visual_prothesis": "Corrección visual: {0}",
+        "distance_with_unit": "Distancia: {0} cm"
+      }
+    },
+    "weight": {
+      "title": "IMC - índice de masa corporal",
+      "leave_warning": "¿Está seguro de que desea dejar de medir su peso y volver a la página de inicio?",
+      "back": "Regreso",
+      "next": "Próximo",
+      "continue": "seguir",
+      "pacemaker": {
+        "do_you_wear_a_pacemaker": "¿Lleva un marcapasos (o \"batería cardíaca\")?",
+        "explanation": "Si está usando un marcapasos, no se recomienda el uso de la báscula electrónica para calcular su índice de masa corporal.",
+        "no": "No",
+        "yes": "Si llevo un marcapasos",
+        "confirm_yes": "¿Confirma que está usando un marcapasos (o \"batería cardíaca\")?",
+        "cancel_btn": "anular",
+        "confirm_btn": "Confirmar"
+      },
+      "enter_size": {
+        "enter_your_size": "Indica tu talla",
+        "i_dont_known": "No se mi talla."
+      },
+      "measure_size": {
+        "use_the_ruler_on_the_wall": "Si no conoces tu talla\nusa el medidor en la pared."
+      },
+      "measure_weight": {
+        "cannot_measure_weight": "No puedo subir de peso.",
+        "step_on_the_scale": "<b>Súbase a la báscula</b> (sobre un suelo duro) <b>y espere.</b>",
+        "wait_for_the_bip": "La medición se completa cuando escucha un \"BEEP\"."
+      },
+      "enter_weight": {
+        "enter_your_weight": "Por favor <b>ingrese manualmente el peso</b> indicado en la báscula:"
+      },
+      "weight_bar": {
+        "footer_bmi": "IMC",
+        "footer_weight": "Peso"
+      },
+      "results": {
+        "normal_results_title": "Tu peso parece normal",
+        "normal_results": "Tu IMC es {0}, la escala internacional indica que <b>tienes una constitución normal</b>.",
+        "to_monitor_results_title": "Debes controlar tu peso",
+        "to_monitor_results": "Su IMC es {0}, la escala internacional indica que se debe vigilar su peso.<br>Controlar su peso es un factor de salud importante. Se puede hacer si desea <b>ver a un médico general o especialista en nutrición.</b>",
+        "no_results_title": "Esta prueba no es adecuada para pacientes con marcapasos (o \"batería cardíaca\")",
+        "no_results": "Esta prueba no se recomienda",
+        "did_you_know": "Sabías ?",
+        "bmi_explanation": "El IMC es un indicador de su corpulencia que permite estimar los riesgos relacionados con el sobrepeso y la delgadez. Sin embargo, esta medida tiene limitaciones (por ejemplo: no tener en cuenta la morfología del individuo, sobreestimación de mujeres y deportistas, etc.) y no sustituye a un diagnóstico médico.",
+        "card_title": "peso",
+        "pacemaker_subject": "sujeto con batería cardíaca",
+        "end": "Terminar",
+        "bmi": "IMC"
+      }
+    },
+    "audio": {
+      "title": "Escuchando",
+      "exitWarningMessage": "¿Está seguro de que desea salir de la prueba de audición y volver a la página de inicio?",
+      "intro": {
+        "explanation": "Esta prueba es una identificación de ciertas dificultades auditivas. Evalúa su capacidad para reconocer voces en un entorno ruidoso.",
+        "biauricular": "(Esta prueba es biauricular, solo evalúa su mejor oído)",
+        "quiet": "Para garantizar la confiabilidad del resultado, lo invitamos a realizar la prueba en una habitación tranquila.",
+        "continue": "seguir"
+      },
+      "hearing_aid": {
+        "has_hearing_aid": "¿Usa audífonos?",
+        "no": "No",
+        "yes": "sí",
+        "occasionally": "De vez en cuando"
+      },
+      "headphone": {
+        "plug_it": "Tenga <b>auriculares</b> y conéctelo a la computadora.",
+        "previous": "Regreso",
+        "next": "Próximo",
+        "need_help": "No puedo conectar los auriculares",
+        "nurse_help": "Notifique a la enfermera para pedirle que le ayude a conectar el auricular.",
+        "resume": "Retomar"
+      },
+      "tutorial_input_digits": {
+        "hear_digit_triplet": "<b>3 dígitos.</b> Estos números se emiten en un ruido de fondo variable.",
+        "easy_difficult_test": "Por tanto, la prueba es a veces fácil, a veces difícil.",
+        "ok": "Okey"
+      },
+      "tutorial_hear_digits": {
+        "input_digits": "Escriba los números que escuchará en la pantalla.",
+        "input_dash": "Toque el guión (-) cuando no escuche un número correctamente.",
+        "start": "Comenzar"
+      },
+      "test": {
+        "set": "Serie {0}",
+        "listen": "Escucha cuidadosamente",
+        "click_on_the_numbers_you_heard": "Escriba los números que acaba de escuchar en la pantalla,",
+        "click_on_hyphen": "Toque el tablero cuando no haya escuchado el número"
+      },
+      "results": {
+        "noise_ratio": "(*) Relación señal / ruido",
+        "noise_ratio_abbreviation": "RSB *",
+        "noise_ratio_with_unit": "{0} dB",
+        "has_prothesis": "Asunto emparejado",
+        "end": "Terminar",
+        "normal_results_title": "Tu audición parece normal",
+        "normal_results_text": "Sin embargo, si aún experimenta molestias auditivas, <b>no dude en concertar una cita con un otorrinolaringólogo</b> o en hablar con su profesional de la salud ocupacional.",
+        "to_monitor_results_title": "Es posible que deba vigilar su audición",
+        "to_monitor_results_text": "<b>No dude en concertar una cita con un otorrinolaringólogo</b> para un control de audición completo o para hablar con su profesional de la salud ocupacional.",
+        "no_results_title": "Esta prueba no es adecuada para pacientes que ya están equipados",
+        "no_results_text": "Esta prueba solo identifica ciertas dificultades auditivas.<br>No está calibrado para pacientes con dificultades auditivas conocidas.<br>Estos deben ser controlados regularmente por un otorrinolaringólogo.",
+        "did_you_know": "Sabías ?",
+        "audiometry_stats": "El Ministerio de Sanidad estima que a más del 50% de las personas con discapacidad auditiva en Francia nunca se les ha evaluado la capacidad auditiva. Así, solo el 15% de las personas con discapacidad auditiva se adapta en Francia, frente al 30% en Dinamarca.",
+        "to_monitor": "A vigilar",
+        "normal": "normal",
+        "good": "Buena"
+      }
+    },
+    "test_results": {
+      "result_success": "normal",
+      "result_danger": "Al control",
+      "unknown": "No interpretado"
+    },
+    "search": {
+      "results_pick_the_right_meeting": "Seleccione la cita correcta:",
+      "results_visio": "Visio",
+      "results_former_name": "nacido {0}",
+      "results_with_doctor": "con {0}",
+      "results_no_previsit": "Sin visita previa",
+      "results_employee_app_meeting": "Visita a la aplicación del empleado",
+      "results_archived_meeting": "Visita archivada",
+      "results_canceled_meeting": "Visita cancelada",
+      "popover_write_your_name": "Puede escribir las primeras tres letras de su nombre habitual o su nombre de nacimiento",
+      "popover_less_than_3_letters": "Si su apellido tiene menos de tres letras, escríbalo completo",
+      "popover_in_case_of_difficulties": "En caso de dificultades, contacte con el profesional de la salud.",
+      "enter_letters": "Ingrese las primeras tres letras de su apellido",
+      "generic_error": "Se ha producido un error",
+      "medical_team_error": "El equipo médico no se adapta a tu entorno",
+      "no_internet_error": "Sin conexión a Internet",
+      "no_visit_found": "No se encontró una cita para este nombre",
+      "contact_health_professional": "Gracias por acercarse al profesional de la salud.",
+      "wait_until_data_load": "Espere mientras se carga su visita",
+      "submit": "Validar",
+      "pagination": {
+        "previous": "Anterior",
+        "next": "Próximo",
+        "in_total_count": "de {0}"
+      }
+    },
+    "inactivity_modal": {
+      "security_warning": "Sigues aquí ? Por razones de seguridad, su cuenta se cerrará en {0} segundos.",
+      "still_here": "Estoy aquí"
+    },
+    "exit_modal": {
+      "congrats": "¡Felicitaciones {0}!",
+      "previsit_finished": "Tu visita previa ha terminado",
+      "contact_pds_next": "Lo invitamos a que se comunique con el profesional de la salud que lo acompaña para continuar con su visita de salud ocupacional.",
+      "leave": "licencia",
+      "keep_going": "Retomar",
+      "finish": "Terminar"
+    },
+    "exit_admin": {
+      "thank_you": "Gracias {0}",
+      "exam_over": "esta parte de la visita ha terminado.",
+      "contact_health_professionals": "Comuníquese con los profesionales de la salud para continuar la visita.",
+      "only_for_health_professionals": "Información reservada a los profesionales sanitarios&nbsp;:",
+      "firm_error_declared": "El empleado declaró que hubo un error en la lista de las empresas en las que trabaja.",
+      "end_session": "Termina la sesión",
+      "close": "Cerrar"
+    },
+    "permission": {
+      "ask_for_permission": "Permita el acceso a la cámara en la siguiente pantalla.",
+      "no_permission_error": "¡Esta autorización es necesaria para continuar! <br/>Empiece de nuevo.",
+      "give_permission": "Permitir"
+    },
+    "offline": {
+      "no_internet": "¡Vaya, la computadora ya no está conectada a la red!",
+      "ask_for_help": "Te invitamos a pedir ayuda",
+      "ask_visit_manager": "al responsable de la visita de salud."
+    },
+    "server_error": {
+      "error_happened": "Se ha producido un error",
+      "service_unavailable": "El servicio no está disponible brevemente",
+      "please_retry_later": "Vuelva a intentarlo en unos minutos, nuestros equipos técnicos corregirán el problema.",
+      "retry": "Volver a intentar"
+    },
+    "unauthorized": {
+      "error_msg": "No está autorizado a acceder a la aplicación previa a la visita.",
+      "get_help": "Gracias por acercarse al profesional de la salud.",
+      "retry": "Volver a intentar"
+    },
+    "exam_error_modal": {
+      "error_msg": "Vaya, se produjo un error al guardar los resultados.",
+      "get_help": "Lo invitamos a pedir ayuda al responsable de la visita de salud.",
+      "leave": "licencia"
+    }
+  }
+}

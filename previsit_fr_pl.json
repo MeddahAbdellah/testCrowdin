@@ -1,0 +1,422 @@
+{
+  "previsit": {
+    "onboarding": {
+      "hello_employee": "Witam {0},",
+      "invited_to_answer": "Twoja służba medycyny pracy zaprasza Cię do wypełnienia kwestionariusza i wykonania niektórych badań",
+      "previsit_duration": "Cykl egzaminów trwa<br><b>15 do 30 minut</b>",
+      "previsit_secure": "<b>Twoje dane są bezpieczne.</b><br>Tylko Ty i zespół medyczny macie do niego dostęp",
+      "previsit_communication": "W przypadku trudności prosimy o kontakt z lekarzem",
+      "next": "następujący",
+      "not_this_employee": "Nie jestem {0}",
+      "cgu_security": "Zebrane informacje są zapisywane w pliku komputerowym przez służbę medycyny pracy w celu utworzenia i aktualizacji dokumentacji medycznej dotyczącej medycyny pracy.<br><br>Są one przeznaczone wyłącznie dla Państwa lekarza medycyny pracy, a po oddelegowaniu jego zespołu medycznego, z zachowaniem tajemnicy lekarskiej i zawodowej.<br><br>Zgodnie z ustawą „Informatique et Libertés”, możesz skorzystać z prawa dostępu do danych, które Cię dotyczą, i zażądać ich sprostowania, kontaktując się ze służbą medycyny pracy.<br><br>Dane są gromadzone i technicznie przetwarzane przez podwykonawcę służby medycyny pracy:<br>{0}<br><br>Dane są przechowywane przez zatwierdzonego hosta danych zdrowotnych ze wszystkimi gwarancjami bezpieczeństwa, poufności i solidności:<br>{1}<br>",
+      "confirm_cgu_security": "Klikając „dalej” wyrażam zgodę na gromadzenie i przetwarzanie moich danych zdrowotnych z zachowaniem tajemnicy lekarskiej i zawodowej.",
+      "add": "Dodaj",
+      "change": "Edytować",
+      "back": "Powrót",
+      "go_on": "Kontynuować"
+    },
+    "firm": {
+      "work_for_firm": "Czy nadal pracujesz w [tej | tej] firmie[s]?",
+      "yes": "tak",
+      "no": "Nie"
+    },
+    "email": {
+      "update_email_please": "Zaktualizuj swój adres e-mail",
+      "your_email": "<b>Twój adres e-mail</b> (wymagane)",
+      "enter_email": "Wprowadź swój email",
+      "no_email": "Nie podano adresu",
+      "frequently_used": "Często używany",
+      "submit": "Uprawomocnić",
+      "cancel": "Anulować",
+      "email_utility": "E-mail umożliwia bezpieczny dostęp do wyników wizyty w Twojej przestrzeni prewencyjnej, otrzymywanie zaproszeń, a także powiadomień (odwołanie, modyfikacja wizyty, nowe dokumenty…)",
+      "i_have_no_email_address": "Nie mam adresu e-mail",
+      "yes": "tak",
+      "no": "Nie",
+      "required_for_employee_app": "Przypominamy, że bez adresu e-mail nie będziesz mógł połączyć się ze swoją przestrzenią profilaktyczną i uzyskać dostępu do wszystkich swoich dokumentów medycznych.",
+      "would_you_like_to_continue": "Czy chciałbyś kontynuować ?"
+    },
+    "personal_infos": {
+      "update_infos": "Zaktualizuj swoje dane osobowe",
+      "infos_confidentiality": "Informacje te są przeznaczone wyłącznie dla służby zdrowia i w żadnym wypadku nie będą przekazywane Twojemu pracodawcy.",
+      "your_mobile_phone": "Twój numer telefonu",
+      "no_mobile_phone": "Nie wprowadzono żadnego numeru",
+      "your_address": "Twój adres pocztowy",
+      "no_address": "Nie podano adresu",
+      "submit": "Uprawomocnić",
+      "cancel": "Anulować",
+      "phone_use": "Twój numer telefonu zapewnia dostęp do Twojej przestrzeni pracowniczej.",
+      "phone_complementary_use": "Służy również do przypominania SMS-em o miejscu i czasie Twoich wizyt lekarskich.",
+      "address_use": "Twój adres pocztowy może być wykorzystany przez służbę zdrowia do wysyłania listów",
+      "address_use_example": "(np. recepty na dodatkowe badania)",
+      "disclaimer": "Informacje te są przeznaczone wyłącznie dla służby zdrowia i nie będą przekazywane Twojemu pracodawcy.",
+      "i_understand": "rozumiem",
+      "postal_address_update": "Proszę podać swój adres pocztowy",
+      "street": "Wpisz swój adres",
+      "postal_code": "Kod pocztowy",
+      "city": "Miasto",
+      "phone_placeholder": "Wpisz swój numer<br>Przykład: {0}"
+    },
+    "employee_picture": {
+      "picture_found": "Twoje zdjęcie zostało znalezione<br>w Twojej dokumentacji medycznej.",
+      "picture_not_found": "<b>Nie masz jeszcze zdjęcia<br>skojarzonego ze swoim profilem.</b>",
+      "picture_purpose": "Twoje zdjęcie pozwoli Twojemu zespołowi medycznemu łatwiej Cię zidentyfikować i usprawnić śledzenie Twoich akt.",
+      "do_not_add_picture": "Nie chcę dodawać zdjęcia",
+      "change_picture": "Edytuj zdjęcie",
+      "add_picture": "Zrobić zdjęcie",
+      "position_yourself": "Wyśrodkuj głowę w okręgu, a następnie naciśnij różowy przycisk.",
+      "take_picture": "Zrób zdjęcie",
+      "try_again": "Uruchom ponownie",
+      "submit": "Uprawomocnić"
+    },
+    "allow_dmst_transfer": {
+      "allow_transfer": "Zezwolenie na przekazanie Kartoteki medycyny pracy",
+      "why_allow_transfer": "W przypadku nieobecności lub zastępstwa podążającego za Tobą pracownika medycyny pracy, Twoje akta zdrowotne zostaną przesłane zastępcy w służbie, który zaopiekuje się Tobą zgodnie z tajemnicą lekarską.",
+      "see_more": "Zobacz więcej informacji",
+      "secured_tranfer": "Informacje te są ściśle poufne i w żadnym wypadku nie są przekazywane Twojemu pracodawcy.",
+      "allow": "Ja autoryzuję",
+      "refuse": "Nie pozwalam"
+    },
+    "dmst_transfer_explanation": {
+      "title": "Przeniesienie akt medycyny pracy",
+      "law_code": "Kodeks pracy, art. L4624-8",
+      "law_article": {
+        "article_code": "Artykuł L4624-8 kodeksu pracy:",
+        "article_paragraph_one": "Dokumentacja medyczna medycyny pracy, sporządzona przez lekarza medycyny pracy, zawiera, z zachowaniem tajemnicy lekarskiej, informacje dotyczące stanu zdrowia pracownika, narażenia, którym był on poddany oraz opinie i propozycje lekarza medycyny pracy. , prace, w szczególności te sformułowane przy zastosowaniu artykułów L.4624-3 i L.4624-4.",
+        "article_paragraph_two": "Dokumentację można przekazać tylko wybranemu przez siebie lekarzowi, na wniosek osoby zainteresowanej. W przypadku wystąpienia zagrożenia zdrowia publicznego lub na jego wniosek lekarz medycyny przekazuje je inspektorowi lekarza medycyny pracy. Plik ten można przekazać innemu lekarzowi medycyny pracy w ramach kontynuacji opieki, chyba że pracownik odmówi.",
+        "article_paragraph_three": "Pracownik lub w przypadku jego śmierci każda osoba upoważniona na mocy artykułów L.1110-4 i L.1111-7 Kodeksu zdrowia publicznego może zażądać przekazania tego pliku."
+      },
+      "intro": "Twój ośrodek medycyny pracy przetwarza zebrane dane, aby zapewnić Ci opiekę zdrowotną.",
+      "dmst_transfer": "W ramach kontynuacji Twojej wizyty kontrolnej Twoja dokumentacja medyczna może zostać przekazana nowemu lekarzowi medycyny pracy uczestniczącemu w Twojej opiece:",
+      "transfer_mail": "pocztą lub wiadomością: w takim przypadku możesz sprzeciwić się tej komunikacji, informując w jakikolwiek sposób personel przychodni medycyny pracy, który Cię wspiera;",
+      "transfer_digital": "poprzez udostępniony plik komputerowy, który umożliwia innym lekarzom medycyny pracy dostęp do Twojej historii medycznej niezbędnej do kontynuacji: w takim przypadku Twoja zgoda na udostępnienie jest gromadzona i może zostać wycofana w dowolnym momencie.",
+      "transfer_importance": "Taka komunikacja jest niezbędna do zapobiegania ryzyku zawodowemu i ochrony zdrowia, a zatem do prawidłowej, skutecznej i dokładnej obserwacji przez różnych lekarzy medycyny pracy, którzy będą musieli przeprowadzić kontrolę.",
+      "transfer_conclusion": "Aby osiągnąć ten cel, lekarz medycyny pracy potrzebuje wsparcia uzupełnianego w miarę przeprowadzania badań przewidzianych przepisami prawa pracy, aby umożliwić monitorowanie ewolucji stanu zdrowia pacjenta i jego niezwykłego narażenia w czasie (w szczególności tych, które mogą być źródło patologii zawodowych), ograniczenia predyspozycji i wszelkie inne zalecenia.",
+      "confidentiality_clause": "Wszyscy ci specjaliści podlegają poufności tych informacji.",
+      "close": "Zamknąć"
+    },
+    "bluetooth": {
+      "pairing_timeout": "Połączenie z urządzeniem Bluetooth nie powiodło się.",
+      "scan_cancelled": "Wyszukiwanie nowych urządzeń Bluetooth zostało anulowane.",
+      "request_error": "Wystąpił błąd podczas wyszukiwania nowych urządzeń.",
+      "no_response_from_device": "Urządzenie Bluetooth nie odpowiada.",
+      "bluetooth_not_enabled": "Nie można połączyć się z Bluetooth komputera. Testy z użyciem ciśnieniomierza i podłączonej wagi nie będą dostępne.",
+      "devices_not_registered": "Waga i ciśnieniomierz nie są aktualnie zarejestrowane w systemie: nie będziesz w stanie zmierzyć swojej wagi ani ciśnienia krwi.",
+      "scale_not_registered": "Waga nie jest aktualnie zarejestrowana w systemie: nie będziesz w stanie zmierzyć swojej wagi.",
+      "pressure_not_registered": "Ciśnieniomierz nie jest aktualnie zarejestrowany w systemie: nie będzie można zmierzyć ciśnienia krwi.",
+      "list_devices_error": "Nie można uzyskać listy podłączonych urządzeń Bluetooth.",
+      "error_modal": {
+        "results_not_received": "Wynik testu nie został przesłany do aplikacji *",
+        "finish_manually": "Wskaż wynik ręcznie",
+        "retry_test": "Powtórz test",
+        "help_from_handler": "(*) Nie wahaj się poprosić o pomoc osoby prowadzącej wizytę"
+      }
+    },
+    "settings": {
+      "bluetooth": {
+        "add_device": "Dodaj",
+        "add_new_device": "Dodaj nowe urządzenie Bluetooth",
+        "n_connected_devices": "Aktualnie masz {0} zapisanych obiektów[s][s]:",
+        "blood_pressure": "Ciśnieniomierz",
+        "scale": "Saldo",
+        "cant_pair_device": "Nie mogę podłączyć mojego urządzenia",
+        "what_kind_of_device_you_want_to_add": "Jaki typ obiektu chcesz dodać?",
+        "blood_pressure_monitor_instruction": "Weź ciśnieniomierz i naciśnij przycisk Start na kilka sekund ...",
+        "scale_instruction": "Naciśnij przycisk z tyłu wagi, aby aktywować tryb wyszukiwania",
+        "web_bluetooth_unavailable": "Sieć Bluetooth jest niedostępna.",
+        "use_feature_flags": "Przed rozpoczęciem parowania aktywuj następujące flagi funkcji przeglądarki Google Chrome:",
+        "web_bluetooth_new_permissions_backend_ff": "enable-web-bluetooth-new-permissions-backend",
+        "experimental_web_platform_features_ff": "enable-experimental-web-platform-features",
+        "relaunch_pairing": "Uruchom ponownie parowanie",
+        "device_paired": "Twoje urządzenie jest teraz sparowane"
+      },
+      "general": {
+        "admin": "Administracja",
+        "pair_devices": "Parowanie obiektów",
+        "technical_settings": "Ustawienia techniczne",
+        "enter_password": "Wprowadź hasło administratora:",
+        "wrong_password": "Wprowadzone hasło jest nieprawidłowe",
+        "password": "Hasło",
+        "leave": "Zamknij aplikację",
+        "submit": "Uprawomocnić",
+        "contact_us": "Skontaktuj się z nami",
+        "contact_us_at": "Telefonicznie: {0}",
+        "contact_us_on": "8:30 do 18:30 od poniedziałku do piątku"
+      },
+      "technical_settings": {
+        "title": "Ustawienia techniczne",
+        "tutorial": "Głos Narratora",
+        "disable_context_menu": "Wyłącz menu kontekstowe (kliknij prawym przyciskiem myszy)",
+        "request_fullscreen": "Włącz automatyczne przełączanie na pełny ekran"
+      }
+    },
+    "carousel": {
+      "select_test": "Wybierz egzamin",
+      "exam_not_done": "Nie skończyłeś testów, czy na pewno chcesz się wylogować?"
+    },
+    "form": {
+      "answer": "Uprawomocnić",
+      "skip_answer": "Nie chcę odpowiadać",
+      "skip_answer_confirmation": "Czy na pewno chcesz pominąć pytanie?",
+      "confirm_skip": "Tak, podaj",
+      "deny_skip": "Brak odpowiedzi",
+      "subtitle": "Ankieta",
+      "done": "Skończone",
+      "back": "Powrót",
+      "privacy": "Poufność kwestionariusza",
+      "privacy_text": "Twoje odpowiedzi na kwestionariusz są poufne.",
+      "secret": "Wszystkie te informacje są objęte tajemnicą lekarską iw żadnym wypadku nie mogą zostać przekazane pracodawcy.",
+      "labor_code": "Kodeks pracy, art. L4624-8",
+      "labor_code_article": "Opracowana przez lekarza medycyny dokumentacja medycyny pracy zawiera, z zachowaniem tajemnicy lekarskiej, informacje dotyczące stanu zdrowia pracownika, narażenia, którym był on poddany, a także opinie i propozycje pracy, w w szczególności te sformułowane przy zastosowaniu artykułów L. 4624-3 i L. 4624-4. Dokumentację można przekazać tylko wybranemu przez siebie lekarzowi, na wniosek osoby zainteresowanej. W przypadku wystąpienia zagrożenia zdrowia publicznego lub na jego wniosek lekarz medycyny przekazuje je inspektorowi lekarza medycyny pracy. Plik ten można przekazać innemu lekarzowi medycyny pracy w ramach kontynuacji opieki, chyba że pracownik odmówi. Pracownik lub w przypadku jego śmierci każda osoba upoważniona na mocy art. L. 1110-4 i L. 1111-7 kodeksu zdrowia publicznego może zażądać udostępnienia tej dokumentacji.",
+      "understood": "rozumiem",
+      "leave_warning": "Czy na pewno chcesz opuścić kwestionariusz i wrócić do strony głównej?",
+      "progress_text": "Zakończony"
+    },
+    "blood_pressure": {
+      "title": "Napięcie",
+      "take_device": "<b>Weź ciśnieniomierz</b> , odłączając go, jeśli to konieczne.",
+      "position_device": "<b>Zadrapać bez naciągania ciśnieniomierza wokół lewego przedramienia</b> (po przełożeniu paska przez sprzączkę)",
+      "position_device_2": "Ekran powinien być skierowany w Twoją stronę, właściwą stroną do góry i dwa cale od nadgarstka.",
+      "position_yourself": "<b>Połóż łokieć na stole,</b> dłoń skierowaną w stronę serca.",
+      "position_yourself_2": "Uważaj, aby nie poruszać się podczas pomiaru.",
+      "measure_explanation": "<b>Podczas pomiaru opaska napompowuje się i mocno zaciska przedramię.</b> Samoczynnie opróżnia się po około 30 sekundach.",
+      "ready": "Kiedy będziesz gotowy, naciśnij <b>przycisk „Start”</b> na ciśnieniomierzu",
+      "measure_end": "<b>Pomiar jest zakończony</b> gdy usłyszysz <b>„BEEP”</b>.",
+      "next_step": "następujący",
+      "prev_step": "Powrót",
+      "help": "Nie mogę zmierzyć ciśnienia krwi.",
+      "manual_input": "<b>Proszę wskazać ręcznie pomiary</b> wyświetlane na ciśnieniomierzu:",
+      "normal_results_title": "<b>Twoje ciśnienie krwi jest prawidłowe</b>",
+      "to_monitor_results_title": "<b>Twoje napięcie musi zostać sprawdzone</b>",
+      "normal_results": "Pomiar wskazuje na normalne ciśnienie krwi, jednak w przypadku jakichkolwiek wątpliwości lub pytań zapraszamy do rozmowy z lekarzem medycyny pracy.",
+      "to_monitor_results": "Pomiar wskazuje na napięcie o <b>wyższe niż standardowe</b>. Nie martw się, pomiar napięcia może się różnić w zależności od wielu parametrów, nawet w ciągu tego samego dnia. Zalecamy każdorazowo wykonanie <b>kontroli przez lekarza rodzinnego.</b>",
+      "did_you_know": "Czy wiedziałeś ?",
+      "systolic": "<b><i>Systolic Pressure (SYS)</i></b> to ciśnienie krwi w tętnicach podczas fazy skurczu lub skurczu serca.",
+      "diastolic": "<b><i>Ciśnienie rozkurczowe (DIA)</i></b> odpowiada ciśnieniu krwi w tętnicach podczas fazy rozluźnienia serca lub rozkurczu.",
+      "pulsation": "<b><i>Tętno (PUL / min lub BPM)</i></b> to liczba uderzeń serca (lub pulsacji) na minutę.",
+      "input_error": "Wartość musi wynosić od {0} do {1} mmHg",
+      "leave_warning": "Czy na pewno chcesz zrezygnować z pomiaru ciśnienia krwi i wrócić do strony głównej?",
+      "end": "koniec"
+    },
+    "near_vision": {
+      "title": "Widzenie z bliska",
+      "question_reading_tools": "Czy nosisz <b>okularów</b> lub <b>soczewki</b> do czytania?",
+      "question_wear_glasses": "<b>Czy zamierzasz je nosić podczas tego testu?</b> (zalecane)",
+      "double_glasses": "Jeśli nosisz okulary dwuogniskowe, rozważ spojrzenie przez dno okularów",
+      "placement": "<b>Ustaw się 40 cm od ekranu, twarzą do koła</b>",
+      "automatic_detection": "Aplikacja automatycznie wykrywa odległość od twarzy.",
+      "closer_to_screen": "<b>Zbliż się do ekranu</b>",
+      "further_from_screen": "<b>Odejdź od ekranu</b>",
+      "right_distance": "<b>Odległość ok. Nie ruszaj się</b>",
+      "not_detected": "<b>Ustaw się przed ekranem</b>",
+      "no_camera": "<b>Oczekiwanie na dostęp do aparatu urządzenia</b>",
+      "placement_not_detected": "<b>Nie wykryto odległości między twarzą a ekranem.</b>",
+      "test_still_possible": "Możesz przeprowadzić test, umieszczając twarz około 40 cm od ekranu.",
+      "i_am_not_detected": "Nie jestem wykrywany",
+      "i_understand": "rozumiem",
+      "click_on_symbol": "<b>Kliknij klawisz odpowiadający podkreślonemu symbolowi</b>",
+      "touch_arrow": "Stuknij strzałkę na środku klawiatury, jeśli jej nie widzisz",
+      "partner": "Test przeprowadzony we współpracy z",
+      "rectify": "Poprawny",
+      "yes": "tak",
+      "no": "Nie",
+      "done": "koniec",
+      "normal_results_title": "<b>Twoje widzenie z bliska wydaje się normalne</b>",
+      "normal_results": "Do dalszych kontroli zdrowia twoich oczu, nie wahaj się umówić z <b>profesjonalnym wizja.</b>",
+      "to_monitor_results_title": "<b>Sprawdź swoją bliskość</b>",
+      "to_monitor_results": "Jeśli popełniłeś kilka błędów, zalecamy <b>sprawdzenie wzroku</b> przez okulistę.",
+      "did_you_know": "Czy wiedziałeś ?",
+      "parinaud": "<b>Skala Parinauda mierzy ostrość wzroku do bliży, tj. Umiejętność czytania:</b>",
+      "parinaud_boundaries": "P2 jest uważana za normalną ostrość wzroku, a P14 za bardzo słabą ostrość wzroku.",
+      "leave_warning": "Czy na pewno chcesz zakończyć test widzenia do bliży i wrócić do strony głównej?",
+      "result": {
+        "visual_prothesis": "Korekta wizualna: {0}",
+        "distance_with_unit": "Odległość: {0} cm"
+      }
+    },
+    "weight": {
+      "title": "BMI - wskaźnik masy ciała",
+      "leave_warning": "Czy na pewno chcesz przerwać pomiar wagi i wrócić do strony głównej?",
+      "back": "Powrót",
+      "next": "następujący",
+      "continue": "Kontynuować",
+      "pacemaker": {
+        "do_you_wear_a_pacemaker": "Czy nosisz rozrusznik serca (lub „baterię serca”)?",
+        "explanation": "Jeśli masz rozrusznik serca, nie zaleca się używania wagi elektronicznej do obliczania wskaźnika masy ciała.",
+        "no": "Nie",
+        "yes": "Tak, noszę rozrusznik serca",
+        "confirm_yes": "Czy potwierdzasz, że nosisz rozrusznik serca (lub „baterię serca”)?",
+        "cancel_btn": "Anulować",
+        "confirm_btn": "Potwierdzać"
+      },
+      "enter_size": {
+        "enter_your_size": "Wskaż swój rozmiar",
+        "i_dont_known": "Nie znam swojego rozmiaru."
+      },
+      "measure_size": {
+        "use_the_ruler_on_the_wall": "Jeśli nie znasz swojego rozmiaru\nużyj miernika na ścianie."
+      },
+      "measure_weight": {
+        "cannot_measure_weight": "Nie mogę przybrać na wadze.",
+        "step_on_the_scale": "<b>Wejdź na wagę</b> (na twardej podłodze) <b>i poczekaj.</b>",
+        "wait_for_the_bip": "Pomiar jest zakończony, gdy usłyszysz „BEEP”."
+      },
+      "enter_weight": {
+        "enter_your_weight": "Proszę <b>ręcznie wpisać wagę</b> wskazaną na wadze:"
+      },
+      "weight_bar": {
+        "footer_bmi": "BMI",
+        "footer_weight": "Waga"
+      },
+      "results": {
+        "normal_results_title": "Twoja waga wydaje się normalna",
+        "normal_results": "Twoje BMI wynosi {0}, skala międzynarodowa wskazuje, że <b>masz normalną kompilację</b>.",
+        "to_monitor_results_title": "Twoja waga powinna być monitorowana",
+        "to_monitor_results": "Twoje BMI wynosi {0}, międzynarodowa skala wskazuje, że Twoja waga powinna być obserwowana.<br>Kontrolowanie wagi jest ważnym czynnikiem zdrowotnym. Możesz, jeśli chcesz <b>udać się do lekarza ogólnego lub dietetyka.</b>",
+        "no_results_title": "Ten test nie jest odpowiedni dla pacjentów z rozrusznikiem serca (lub „baterią serca”)",
+        "no_results": "Ten test nie jest zalecany",
+        "did_you_know": "Czy wiedziałeś ?",
+        "bmi_explanation": "BMI jest wskaźnikiem tuszy, umożliwiającym oszacowanie ryzyka związanego z nadwagą i szczupłością. Jednak środek ten ma ograniczenia (np .: nieuwzględnianie morfologii jednostki, przeszacowanie kobiet i sportowców itp.) I nie zastępuje diagnozy medycznej.",
+        "card_title": "waga",
+        "pacemaker_subject": "obiekt z baterią serca",
+        "end": "koniec",
+        "bmi": "BMI"
+      }
+    },
+    "audio": {
+      "title": "Przesłuchanie",
+      "exitWarningMessage": "Czy na pewno chcesz zakończyć badanie słuchu i wrócić do strony głównej?",
+      "intro": {
+        "explanation": "Ten test jest identyfikacją pewnych problemów ze słuchem. Ocenia twoją zdolność rozpoznawania głosów w hałaśliwym otoczeniu.",
+        "biauricular": "(Ten test jest dwuurowy, ocenia tylko twoje lepsze ucho)",
+        "quiet": "Aby zapewnić wiarygodność wyniku, zapraszamy do wykonania testu w cichym pomieszczeniu.",
+        "continue": "Kontynuować"
+      },
+      "hearing_aid": {
+        "has_hearing_aid": "Czy nosisz aparaty słuchowe?",
+        "no": "Nie",
+        "yes": "tak",
+        "occasionally": "Sporadycznie"
+      },
+      "headphone": {
+        "plug_it": "Proszę mieć <b>słuchawek</b> i podłączyć je do komputera.",
+        "previous": "Powrót",
+        "next": "następujący",
+        "need_help": "Nie mogę podłączyć słuchawek",
+        "nurse_help": "Poinformuj pielęgniarkę, aby poprosiła ją o pomoc w podłączeniu zestawu słuchawkowego",
+        "resume": "Wznawianie"
+      },
+      "tutorial_input_digits": {
+        "hear_digit_triplet": "Usłyszysz 3-cyfrowe <b></b> Liczby te są emitowane w zmiennym szumie tła",
+        "easy_difficult_test": "Test jest więc czasem łatwy, czasem trudny.",
+        "ok": "w porządku"
+      },
+      "tutorial_hear_digits": {
+        "input_digits": "Wpisz liczby, które usłyszysz na ekranie.",
+        "input_dash": "Stuknij myślnik (-), jeśli nie słyszysz numeru poprawnie.",
+        "start": "Zacząć"
+      },
+      "test": {
+        "set": "Seria {0}",
+        "listen": "Słuchaj uważnie",
+        "click_on_the_numbers_you_heard": "Wpisz cyfry, które właśnie usłyszałeś na ekranie,",
+        "click_on_hyphen": "Stuknij w myślnik, jeśli nie usłyszysz numeru"
+      },
+      "results": {
+        "noise_ratio": "(*) Stosunek sygnału do szumu",
+        "noise_ratio_abbreviation": "RSB *",
+        "noise_ratio_with_unit": "{0} dB",
+        "has_prothesis": "Sparowany temat",
+        "end": "koniec",
+        "normal_results_title": "Twój słuch wydaje się normalny",
+        "normal_results_text": "Jeśli jednak nadal odczuwasz dyskomfort słuchu, <b>nie wahaj się umówić na wizytę u laryngologa</b> lub porozmawiać z lekarzem medycyny pracy.",
+        "to_monitor_results_title": "Konieczna może być obserwacja słuchu",
+        "to_monitor_results_text": "<b>Nie wahaj się umówić na wizytę u lekarza laryngologa</b> na dokładne badanie słuchu lub porozmawiać z lekarzem medycyny pracy.",
+        "no_results_title": "Ten test nie jest odpowiedni dla pacjentów już dopasowanych",
+        "no_results_text": "Ten test identyfikuje tylko pewne problemy ze słuchem.<br>Nie jest skalibrowany dla pacjentów ze znanymi problemami ze słuchem.<br>Powinny one być regularnie monitorowane przez lekarza laryngologa.",
+        "did_you_know": "Czy wiedziałeś ?",
+        "audiometry_stats": "Ministerstwo Zdrowia szacuje, że ponad 50% osób z upośledzeniem słuchu we Francji nigdy nie miało oceny ich zdolności słuchu. Tak więc tylko 15% osób z upośledzeniem słuchu jest wyposażonych we Francji, w porównaniu z 30% w Danii.",
+        "to_monitor": "Monitorować",
+        "normal": "Normalna",
+        "good": "Dobrze"
+      }
+    },
+    "test_results": {
+      "result_success": "Normalna",
+      "result_danger": "Kontrolować",
+      "unknown": "Nie zinterpretowano"
+    },
+    "search": {
+      "results_pick_the_right_meeting": "Wybierz właściwą wizytę:",
+      "results_visio": "Visio",
+      "results_former_name": "urodzony {0}",
+      "results_with_doctor": "z {0}",
+      "results_no_previsit": "Bez wizyty wstępnej",
+      "results_employee_app_meeting": "Wizyta w aplikacji pracownika",
+      "results_archived_meeting": "Zarchiwizowana wizyta",
+      "results_canceled_meeting": "Odwołana wizyta",
+      "popover_write_your_name": "Możesz wpisać pierwsze trzy litery swojego zwykłego imienia lub nazwiska rodowego",
+      "popover_less_than_3_letters": "Jeśli twoje nazwisko ma mniej niż trzy litery, napisz je w całości",
+      "popover_in_case_of_difficulties": "W razie trudności skontaktuj się z lekarzem",
+      "enter_letters": "Wpisz pierwsze trzy litery swojego nazwiska",
+      "generic_error": "Wystąpił błąd",
+      "medical_team_error": "Zespół medyczny nie pasuje do twojego środowiska",
+      "no_internet_error": "Brak połączenia z internetem",
+      "no_visit_found": "Nie znaleziono spotkania dla tej nazwy",
+      "contact_health_professional": "Dziękujemy za zbliżenie się do pracownika służby zdrowia.",
+      "wait_until_data_load": "Proszę czekać, trwa ładowanie wizyty",
+      "submit": "Uprawomocnić",
+      "pagination": {
+        "previous": "Poprzedni",
+        "next": "następujący",
+        "in_total_count": "z {0}"
+      }
+    },
+    "inactivity_modal": {
+      "security_warning": "Czy nadal tu jesteś? Ze względów bezpieczeństwa Twoje konto zostanie wylogowane za {0} sekund",
+      "still_here": "Jestem tutaj"
+    },
+    "exit_modal": {
+      "congrats": "Gratulacje {0}!",
+      "previsit_finished": "Twoja wizyta wstępna dobiegła końca",
+      "contact_pds_next": "Zapraszamy do kontaktu z towarzyszącym Państwu pracownikiem służby zdrowia w celu kontynuacji wizyty lekarskiej w miejscu pracy.",
+      "leave": "wychodzić",
+      "keep_going": "Wznawianie",
+      "finish": "koniec"
+    },
+    "exit_admin": {
+      "thank_you": "Dziękuję {0},",
+      "exam_over": "ta część wizyty dobiegła końca.",
+      "contact_health_professionals": "Aby kontynuować wizytę, skontaktuj się z personelem medycznym.",
+      "only_for_health_professionals": "Informacje zastrzeżone dla pracowników służby zdrowia&nbsp;:",
+      "firm_error_declared": "Pracownik oświadczył, że w wykazie firm, w których pracuje, wystąpił błąd.",
+      "end_session": "Zakończ sesję",
+      "close": "Zamknąć"
+    },
+    "permission": {
+      "ask_for_permission": "Zezwól na dostęp do kamery na następnym ekranie.",
+      "no_permission_error": "Ta autoryzacja jest wymagana, aby kontynuować! <br/>Zacznij od nowa.",
+      "give_permission": "Zezwolić"
+    },
+    "offline": {
+      "no_internet": "Ups, komputer nie jest już połączony z siecią!",
+      "ask_for_help": "Zapraszamy do proszenia o pomoc",
+      "ask_visit_manager": "osobie kierującej wizytą lekarską."
+    },
+    "server_error": {
+      "error_happened": "Wystąpił błąd",
+      "service_unavailable": "Usługa jest chwilowo niedostępna",
+      "please_retry_later": "Spróbuj ponownie za kilka minut, nasze zespoły techniczne naprawią problem.",
+      "retry": "Spróbuj ponownie"
+    },
+    "unauthorized": {
+      "error_msg": "Nie masz uprawnień dostępu do aplikacji przed wizytą.",
+      "get_help": "Dziękujemy za zbliżenie się do pracownika służby zdrowia.",
+      "retry": "Spróbuj ponownie"
+    },
+    "exam_error_modal": {
+      "error_msg": "Ups, wystąpił błąd podczas zapisywania wyników.",
+      "get_help": "Zapraszamy do zwrócenia się o pomoc do osoby prowadzącej wizytę zdrowotną.",
+      "leave": "wychodzić"
+    }
+  }
+}

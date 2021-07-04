@@ -1,0 +1,422 @@
+{
+  "previsit": {
+    "onboarding": {
+      "hello_employee": "你好 {0}，",
+      "invited_to_answer": "您的职业健康服务邀请您回答问卷并进行一些检查",
+      "previsit_duration": "一系列的考试持续<br><b>15至30分钟</b>",
+      "previsit_secure": "<b>您的数据是安全的。</b><br>只有您和医疗团队可以访问它",
+      "previsit_communication": "如有困难，请联系健康专家",
+      "next": "下列的",
+      "not_this_employee": "我不是 {0}",
+      "cgu_security": "您的职业健康服务将收集到的信息记录在计算机化文件中，以创建和更新您的职业健康医疗文件。<br><br>它们仅适用于您的职业医师，并在经过授权后供其医疗团队使用，并遵守医学和专业保密规定。<br><br>根据“信息和自由”法律，您可以行使权利访问与您有关的数据，并与职业健康服务联系，以对它们进行纠正。<br><br>数据是由职业健康服务的分包商收集并进行技术处理的：<br>{0}<br><br>数据由经批准的健康数据主机保存，并应保证所有的安全，保密和可靠：<br>{1}<br>",
+      "confirm_cgu_security": "通过单击“下一步”，我明确表示同意按照医学和专业保密原则收集和处理我的健康数据。",
+      "add": "添加",
+      "change": "编辑",
+      "back": "返回",
+      "go_on": "继续"
+    },
+    "firm": {
+      "work_for_firm": "您还在[this | these]公司[s] 吗？",
+      "yes": "是的",
+      "no": "不"
+    },
+    "email": {
+      "update_email_please": "请更新您的电子邮件地址",
+      "your_email": "<b>您的电子邮件地址</b> （必填）",
+      "enter_email": "输入你的电子邮箱",
+      "no_email": "没有提供地址",
+      "frequently_used": "经常使用",
+      "submit": "证实",
+      "cancel": "取消",
+      "email_utility": "该电子邮件使您可以安全地在预防空间中访问访问结果，接收邀请和通知（取消，访问修改，新文档…）",
+      "i_have_no_email_address": "我没有电子邮件地址",
+      "yes": "是的",
+      "no": "不",
+      "required_for_employee_app": "我们提醒您，没有电子邮件地址，您将无法连接到预防场所并访问所有医疗文件。",
+      "would_you_like_to_continue": "你想继续吗 ？"
+    },
+    "personal_infos": {
+      "update_infos": "更新您的个人信息",
+      "infos_confidentiality": "该信息仅用于健康服务，绝不会传输给您的雇主。",
+      "your_mobile_phone": "您的手机号码",
+      "no_mobile_phone": "没有输入数字",
+      "your_address": "您的邮政地址",
+      "no_address": "没有提供地址",
+      "submit": "证实",
+      "cancel": "取消",
+      "phone_use": "您的电话号码可以访问您的员工空间。",
+      "phone_complementary_use": "它也可以通过SMS提醒您职业健康就诊的时间和地点。",
+      "address_use": "健康服务部门可以使用您的邮寄地址向您发送信件",
+      "address_use_example": "（例如，额外检查的处方）",
+      "disclaimer": "此信息仅用于健康服务，不会传递给您的雇主。",
+      "i_understand": "我得到它",
+      "postal_address_update": "请输入您的邮政地址",
+      "street": "输入你的地址",
+      "postal_code": "邮政编码",
+      "city": "城市",
+      "phone_placeholder": "输入您的电话号码<br>例如： {0}"
+    },
+    "employee_picture": {
+      "picture_found": "在您的病历中发现您的照片为<br>",
+      "picture_not_found": "<b>您还没有与您的个人资料关联<br></b>",
+      "picture_purpose": "您的照片可让您的医疗团队更轻松地识别您的身份，并改善文件的后续处理。",
+      "do_not_add_picture": "我不想添加照片",
+      "change_picture": "编辑图片",
+      "add_picture": "拍照",
+      "position_yourself": "将头对准圆圈，然后按粉红色按钮。",
+      "take_picture": "拍照",
+      "try_again": "重新开始",
+      "submit": "证实"
+    },
+    "allow_dmst_transfer": {
+      "allow_transfer": "授权转移职业健康医学档案",
+      "why_allow_transfer": "如果您无法找到或替代您的职业健康专业人员，您的健康档案将发送给服务中的替代人员，该人员将根据医学保密性为您提供护理。",
+      "see_more": "查看更多信息",
+      "secured_tranfer": "该信息是严格保密的，在任何情况下都不会传达给您的雇主。",
+      "allow": "我授权",
+      "refuse": "我不允许"
+    },
+    "dmst_transfer_explanation": {
+      "title": "职业健康档案的转移",
+      "law_code": "劳动法，艺术。 L4624-8",
+      "law_article": {
+        "article_code": "劳工法第L4624-8条：",
+        "article_paragraph_one": "由职业医生拟定的职业健康医疗档案，根据医学保密性，追溯与工人的健康状况有关的信息，其所遭受的暴露以及职业医生的意见和建议。工作，特别是在应用条款L.4624-3和L.4624-4中制定的那些。",
+        "article_paragraph_two": "该文件只能在有关人员的要求下传达给他选择的医生。如果对公共健康构成威胁或应他的要求，职业医师会将其转发给职业医师检查员。除非工人拒绝，否则该文件可以在护理的连续性中传达给另一位职业医生。",
+        "article_paragraph_three": "工人，或如果死亡，则应获得《公共卫生法》第L.1110-4条和L.1111-7条授权的任何人。"
+      },
+      "intro": "您的职业健康中心会处理您收集的数据，以确保您的职业健康护理。",
+      "dmst_transfer": "作为后续工作的一部分，您的医疗档案可以传达给参与护理的新职业医生：",
+      "transfer_mail": "通过邮件或消息传递：在这种情况下，您可以通过以任何方式通知支持您的职业健康中心的工作人员来反对这种沟通；",
+      "transfer_digital": "通过共享的计算机文件，允许其他职业医生访问您的随访所需的病史：在这种情况下，您的共享同意已被收集，可以随时撤回。",
+      "transfer_importance": "这种交流对于预防职业风险和维护健康是必要的，因此对于需要进行随访的各种职业医生进行正确，有效和精确的随访是必不可少的。",
+      "transfer_conclusion": "为实现此目标，职业医生需要在执行劳动法规所规定的检查时予以补充，以使您的健康状况及其显着暴露随时间的变化得以监测（尤其是那些可能发生的疾病）。职业病因的来源），能力限制和任何其他建议。",
+      "confidentiality_clause": "所有这些专业人员均受此信息保密的约束。",
+      "close": "关闭"
+    },
+    "bluetooth": {
+      "pairing_timeout": "与蓝牙设备的连接未成功。",
+      "scan_cancelled": "对新蓝牙设备的搜索已被取消。",
+      "request_error": "搜索新设备时发生错误。",
+      "no_response_from_device": "蓝牙设备无响应。",
+      "bluetooth_not_enabled": "无法连接到计算机的蓝牙。无法使用血压计和连接的秤进行测试。",
+      "devices_not_registered": "体重计和血压监视器当前未在系统中注册：您将无法测量体重或血压。",
+      "scale_not_registered": "该秤当前未在系统中注册：您将无法测量体重。",
+      "pressure_not_registered": "血压监视器当前未在系统中注册：您将无法测量血压。",
+      "list_devices_error": "无法获取连接的蓝牙设备的列表。",
+      "error_modal": {
+        "results_not_received": "测试结果未传输到应用程序*",
+        "finish_manually": "手动指示结果",
+        "retry_test": "重复测试",
+        "help_from_handler": "（*）请随时向负责访问的人寻求帮助"
+      }
+    },
+    "settings": {
+      "bluetooth": {
+        "add_device": "添加",
+        "add_new_device": "添加新的蓝牙设备",
+        "n_connected_devices": "您当前有 {0} 对象[s] 保存了[s]：",
+        "blood_pressure": "血压监测仪",
+        "scale": "平衡",
+        "cant_pair_device": "我无法连接我的设备",
+        "what_kind_of_device_you_want_to_add": "您要添加什么类型的对象？",
+        "blood_pressure_monitor_instruction": "拿血压计，然后按开始按钮几秒钟...",
+        "scale_instruction": "按下秤背面的按钮以激活搜索模式",
+        "web_bluetooth_unavailable": "蓝牙网络不可用。",
+        "use_feature_flags": "在开始配对之前，请激活以下Google Chrome功能标记：",
+        "web_bluetooth_new_permissions_backend_ff": "启用网络蓝牙新权限后端",
+        "experimental_web_platform_features_ff": "启用实验性网络平台功能",
+        "relaunch_pairing": "重新配对",
+        "device_paired": "您的设备现已配对"
+      },
+      "general": {
+        "admin": "行政",
+        "pair_devices": "配对对象",
+        "technical_settings": "技术设定",
+        "enter_password": "输入您的管理员密码：",
+        "wrong_password": "输入的密码不正确",
+        "password": "密码",
+        "leave": "退出申请",
+        "submit": "证实",
+        "contact_us": "联系我们",
+        "contact_us_at": "电话： {0}",
+        "contact_us_on": "周一至周五上午8:30至下午6:30"
+      },
+      "technical_settings": {
+        "title": "技术设定",
+        "tutorial": "讲述人声音",
+        "disable_context_menu": "禁用上下文菜单（右键单击）",
+        "request_fullscreen": "启用自动切换到全屏"
+      }
+    },
+    "carousel": {
+      "select_test": "选择考试",
+      "exam_not_done": "您尚未完成测试，确定要注销吗？"
+    },
+    "form": {
+      "answer": "证实",
+      "skip_answer": "我不想回答",
+      "skip_answer_confirmation": "您确定要跳过该问题吗？",
+      "confirm_skip": "是的，通过",
+      "deny_skip": "没有答案",
+      "subtitle": "民意调查",
+      "done": "完成的",
+      "back": "返回",
+      "privacy": "问卷的保密性",
+      "privacy_text": "您对问卷的回答是机密的。",
+      "secret": "所有这些信息均由医疗机密性保护，在任何情况下都不会传达给您的雇主。",
+      "labor_code": "劳动法，艺术。 L4624-8",
+      "labor_code_article": "由职业医生编制的职业健康医学档案根据医学保密性，追溯与工人的健康状况有关的信息，其所遭受的暴露以及工作的意见和建议。尤其是在应用条款L.4624-3和L.4624-4中制定的配方。该文件只能在有关人员的要求下传达给他选择的医生。如果对公共健康构成威胁或应他的要求，职业医师会将其转发给职业医师检查员。除非工人拒绝，否则该文件可以在护理的连续性中传达给另一位职业医生。工人，或如果死亡，则可要求获得《公共卫生法》第L. 1110-4条和L. 1111-7条授权的任何人。",
+      "understood": "我得到它",
+      "leave_warning": "您确定要退出调查表并返回主页吗？",
+      "progress_text": "完全的"
+    },
+    "blood_pressure": {
+      "title": "电压",
+      "take_device": "<b>如有必要，通过拔下血压计</b>",
+      "position_device": "<b>刮擦而不用将血压计强行压在左前臂</b> （将腕带穿过带扣后）",
+      "position_device_2": "屏幕应朝向您，并且朝上，并且距手腕两英寸。",
+      "position_yourself": "<b>将肘部放在桌子上，</b> 用手面对您的心脏。",
+      "position_yourself_2": "在测量过程中注意不要移动。",
+      "measure_explanation": "<b>在测量过程中，腕带会充气并紧密收紧前臂。</b> 约30秒钟后自行放气。",
+      "ready": "准备就绪后，按 <b>血压计上的“开始”按钮</b>",
+      "measure_end": "<b>当您听到 <b>“ BEEP”</b>时，测量完成</b>。",
+      "next_step": "下列的",
+      "prev_step": "返回",
+      "help": "我无法承受血压。",
+      "manual_input": "<b>请手动指示血压计上显示</b>",
+      "normal_results_title": "<b>您的血压正常</b>",
+      "to_monitor_results_title": "<b>必须检查您的电压</b>",
+      "normal_results": "测量结果表明血压正常，但是，如果您有任何疑问或疑问，我们邀请您与职业医生交谈。",
+      "to_monitor_results": "测量结果表明电压 <b>比标准</b>。不用担心，即使在同一天，张力的测量也会根据许多参数而变化。我们建议您每次都由GP进行 <b>次检查。</b>",
+      "did_you_know": "你知道吗 ？",
+      "systolic": "<b><i>收缩压（SYS）</i></b> 是心脏收缩阶段或心脏收缩期间动脉的血压。",
+      "diastolic": "<b><i>舒张压（DIA）</i></b> 对应于心脏或舒张期舒张期的动脉血压。",
+      "pulsation": "<b><i>心率（PUL /分钟或BPM）</i></b> 是每分钟的心跳（或搏动）数。",
+      "input_error": "该值必须在 {0} 到 {1} mmHg之间",
+      "leave_warning": "您确定要退出血压测量并返回首页吗？",
+      "end": "结束"
+    },
+    "near_vision": {
+      "title": "近视",
+      "question_reading_tools": "您是否戴 <b>眼镜</b> 或 <b>眼镜</b> 才能阅读？",
+      "question_wear_glasses": "<b>您打算在测试期间穿它们吗？</b> （推荐）",
+      "double_glasses": "如果您戴双焦点眼镜，请考虑透过眼镜底部看",
+      "placement": "<b>将自己置于距离萤幕40公分的位置，面对圆圈</b>",
+      "automatic_detection": "该应用程序会自动检测到您与脸部的距离。",
+      "closer_to_screen": "<b>靠近屏幕</b>",
+      "further_from_screen": "<b>离开屏幕</b>",
+      "right_distance": "<b>距离确定。别动</b>",
+      "not_detected": "<b>请把自己放在屏幕前</b>",
+      "no_camera": "<b>等待访问设备的相机</b>",
+      "placement_not_detected": "<b>未检测到您的脸和屏幕之间的距离。</b>",
+      "test_still_possible": "您可以通过将您的脸放在离屏幕约40厘米处来执行测试。",
+      "i_am_not_detected": "我没有被发现",
+      "i_understand": "我得到它",
+      "click_on_symbol": "<b>单击与带下划线的符号对应的键</b>",
+      "touch_arrow": "当您看不到键盘时，请轻按键盘中央的箭头",
+      "partner": "与以下机构合作进行的测试",
+      "rectify": "正确的",
+      "yes": "是的",
+      "no": "不",
+      "done": "结束",
+      "normal_results_title": "<b>您的近视看来正常</b>",
+      "normal_results": "要进一步检查眼睛的健康状况，请立即与视力保健专家 <b></b>",
+      "to_monitor_results_title": "<b>检查您的近视力</b>",
+      "to_monitor_results": "如果您犯了一些错误，建议您 <b>让眼保健专家检查您的视力</b>",
+      "did_you_know": "你知道吗 ？",
+      "parinaud": "<b>帕里诺量表测量近视敏度，即阅读能力：</b>",
+      "parinaud_boundaries": "P2被认为是正常视力，P14被认为是非常差的视力。",
+      "leave_warning": "您确定要退出近视测试并返回主页吗？",
+      "result": {
+        "visual_prothesis": "视觉矫正： {0}",
+        "distance_with_unit": "距离： {0} 厘米"
+      }
+    },
+    "weight": {
+      "title": "BMI-体重指数",
+      "leave_warning": "您确定要退出体重测量并返回首页吗？",
+      "back": "返回",
+      "next": "下列的",
+      "continue": "继续",
+      "pacemaker": {
+        "do_you_wear_a_pacemaker": "您是否佩戴起搏器（或“心脏电池”）？",
+        "explanation": "如果您戴着心脏起搏器，则不建议使用电子秤来计算您的体重指数。",
+        "no": "不",
+        "yes": "是的，我戴了心脏起搏器",
+        "confirm_yes": "您是否确认您正在佩戴起搏器（或“心脏电池”）？",
+        "cancel_btn": "取消",
+        "confirm_btn": "确认"
+      },
+      "enter_size": {
+        "enter_your_size": "注明您的尺码",
+        "i_dont_known": "我不知道我的尺码"
+      },
+      "measure_size": {
+        "use_the_ruler_on_the_wall": "如果您不知道尺寸\n使用墙壁上的仪表。"
+      },
+      "measure_weight": {
+        "cannot_measure_weight": "我无法增加体重。",
+        "step_on_the_scale": "<b>踩到磅秤</b> （在坚硬的地板上） <b>然后等待。</b>",
+        "wait_for_the_bip": "当您听到“哔”声时，测量完成。"
+      },
+      "enter_weight": {
+        "enter_your_weight": "请以 <b>手动输入磅秤上指示</b>"
+      },
+      "weight_bar": {
+        "footer_bmi": "体重指数",
+        "footer_weight": "重量"
+      },
+      "results": {
+        "normal_results_title": "你的体重似乎正常",
+        "normal_results": "您的BMI为 {0}，国际标准表示 <b>表示您的建筑物</b>正常。",
+        "to_monitor_results_title": "您的体重应该受到监控",
+        "to_monitor_results": "您的BMI为 {0}，国际标准表示应注意您的体重。<br>控制体重是重要的健康因素。如果您想 <b>去看普通医师或营养师。</b>",
+        "no_results_title": "此测试不适用于带有起搏器（或“心脏电池”）的患者",
+        "no_results": "不推荐该测试",
+        "did_you_know": "你知道吗 ？",
+        "bmi_explanation": "BMI是您肥胖的指标，可以估计与超重和瘦弱相关的风险。但是，该措施具有局限性（例如：不考虑个人形态，对女性和运动员的高估等），并且不能代替医学诊断。",
+        "card_title": "重量",
+        "pacemaker_subject": "心脏电池的对象",
+        "end": "结束",
+        "bmi": "体重指数"
+      }
+    },
+    "audio": {
+      "title": "听力",
+      "exitWarningMessage": "您确定要退出听力测试并返回主页吗？",
+      "intro": {
+        "explanation": "该测试可以识别某些听力障碍。它评估您在嘈杂的环境中识别声音的能力。",
+        "biauricular": "（该测试是双耳的，它只能评估您的耳朵是否更好）",
+        "quiet": "为了确保结果的可靠性，我们邀请您在安静的房间中进行测试。",
+        "continue": "继续"
+      },
+      "hearing_aid": {
+        "has_hearing_aid": "你戴助听器吗？",
+        "no": "不",
+        "yes": "是的",
+        "occasionally": "偶尔"
+      },
+      "headphone": {
+        "plug_it": "请使用 <b>耳机</b> ，并将其连接到计算机。",
+        "previous": "返回",
+        "next": "下列的",
+        "need_help": "我无法连接耳机",
+        "nurse_help": "请通知护士让她帮助您插入耳机",
+        "resume": "恢复"
+      },
+      "tutorial_input_digits": {
+        "hear_digit_triplet": "您会听到3位数的 <b></b> 这些数字以可变的背景噪声发出",
+        "easy_difficult_test": "因此，测试有时很容易，有时很困难。",
+        "ok": "好的"
+      },
+      "tutorial_hear_digits": {
+        "input_digits": "键入您将在屏幕上听到的数字。",
+        "input_dash": "如果您没有正确听到数字，请点按连字号（-）。",
+        "start": "开始"
+      },
+      "test": {
+        "set": "系列 {0}",
+        "listen": "认真听",
+        "click_on_the_numbers_you_heard": "输入您刚刚在屏幕上听到的数字，",
+        "click_on_hyphen": "当您没有听到电话号码时，请点击破折号"
+      },
+      "results": {
+        "noise_ratio": "（*）信噪比",
+        "noise_ratio_abbreviation": "RSB *",
+        "noise_ratio_with_unit": "{0} 分贝",
+        "has_prothesis": "配对主题",
+        "end": "结束",
+        "normal_results_title": "您的听力似乎正常",
+        "normal_results_text": "但是，如果您仍然感到听力不适，则 <b>会毫不犹豫地与ENT医生预约</b> 或与您的职业健康专业人员进行交谈。",
+        "to_monitor_results_title": "您的听力可能需要注意",
+        "to_monitor_results_text": "<b>立即与耳鼻喉科医生预约</b> 进行彻底的听力检查或与您的职业健康专业人员交谈。",
+        "no_results_title": "此测试不适用于已经安装的患者",
+        "no_results_text": "该测试仅能识别某些听力困难。<br>未对已知听力障碍的患者进行校准。<br>这些应由耳鼻喉科医生定期监测。",
+        "did_you_know": "你知道吗 ？",
+        "audiometry_stats": "卫生部估计，法国超过50％的听力障碍者从未对其听力能力进行评估。因此，在法国，只有15％的听力障碍人士安装了该设备，而丹麦只有30％。",
+        "to_monitor": "监视",
+        "normal": "普通的",
+        "good": "好的"
+      }
+    },
+    "test_results": {
+      "result_success": "普通的",
+      "result_danger": "控制",
+      "unknown": "未解释"
+    },
+    "search": {
+      "results_pick_the_right_meeting": "请选择正确的约会：",
+      "results_visio": "Visio",
+      "results_former_name": "出生 {0}",
+      "results_with_doctor": "与 {0}",
+      "results_no_previsit": "无需事先访问",
+      "results_employee_app_meeting": "员工应用访问",
+      "results_archived_meeting": "存档的访问",
+      "results_canceled_meeting": "已取消访问",
+      "popover_write_your_name": "您可以输入惯用名或姓氏的前三个字母",
+      "popover_less_than_3_letters": "如果您的姓氏少于三个字母，请完整写出",
+      "popover_in_case_of_difficulties": "遇到困难时，请与保健专业人员联系",
+      "enter_letters": "输入您姓氏的前三个字母",
+      "generic_error": "发生了错误",
+      "medical_team_error": "医疗队与您的环境不符",
+      "no_internet_error": "没有网络连接",
+      "no_visit_found": "找不到该姓名的约会",
+      "contact_health_professional": "感谢您与医疗保健专业人士的接洽。",
+      "wait_until_data_load": "请稍等，您的访问量",
+      "submit": "证实",
+      "pagination": {
+        "previous": "以前的",
+        "next": "下列的",
+        "in_total_count": "满分为 {0}"
+      }
+    },
+    "inactivity_modal": {
+      "security_warning": "你还在吗 ？出于安全原因，您的帐户将在 {0} 秒内注销",
+      "still_here": "我在这"
+    },
+    "exit_modal": {
+      "congrats": "恭喜 {0}！",
+      "previsit_finished": "您的参观结束了",
+      "contact_pds_next": "我们邀请您联系陪伴您的保健专业人员，以继续进行您的职业保健访问。",
+      "leave": "离开",
+      "keep_going": "恢复",
+      "finish": "结束"
+    },
+    "exit_admin": {
+      "thank_you": "谢谢 {0}，",
+      "exam_over": "访问的这一部分已经结束。",
+      "contact_health_professionals": "请与医疗保健专业人员联系以继续访问。",
+      "only_for_health_professionals": "保留给医疗保健专业人员的信息&nbsp;：",
+      "firm_error_declared": "员工宣布他工作的公司列表中有错误。",
+      "end_session": "结束会议",
+      "close": "关闭"
+    },
+    "permission": {
+      "ask_for_permission": "请在下一个屏幕中允许访问相机。",
+      "no_permission_error": "需要此授权才能继续！ <br/>请重新开始。",
+      "give_permission": "允许"
+    },
+    "offline": {
+      "no_internet": "糟糕，计算机不再连接到网络！",
+      "ask_for_help": "我们邀请您寻求帮助",
+      "ask_visit_manager": "给负责健康检查的人。"
+    },
+    "server_error": {
+      "error_happened": "发生了错误",
+      "service_unavailable": "该服务暂时不可用",
+      "please_retry_later": "请在几分钟后重试，我们的技术团队将纠正此问题。",
+      "retry": "再试一次"
+    },
+    "unauthorized": {
+      "error_msg": "您无权访问预访问应用程序。",
+      "get_help": "感谢您与医疗保健专业人士的接洽。",
+      "retry": "再试一次"
+    },
+    "exam_error_modal": {
+      "error_msg": "糟糕，保存结果时发生错误。",
+      "get_help": "我们邀请您向健康检查负责人寻求帮助。",
+      "leave": "离开"
+    }
+  }
+}
